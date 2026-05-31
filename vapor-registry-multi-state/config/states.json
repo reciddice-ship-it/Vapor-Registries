@@ -1,0 +1,55 @@
+[
+  {
+    "state": "NC",
+    "state_name": "North Carolina",
+    "enabled": true,
+    "source_type": "page_export",
+    "page_url": "https://www.ncdor.gov/taxes-forms/other-taxes-and-fees/vapor-product-and-consumable-product-certification-and-directory/vapor-certification-directory",
+    "export_link_text": "Export Table Data",
+    "file_type": "csv",
+    "identity_columns": [
+      "Unique Product Identifier (UPC or SKU)",
+      "Manufacturer",
+      "Brand Name",
+      "Product Name"
+    ],
+    "display_columns": [
+      "Unique Product Identifier (UPC or SKU)",
+      "Manufacturer",
+      "Brand Name",
+      "Product Name",
+      "Category",
+      "Flavor",
+      "Date Added to Directory"
+    ]
+  },
+  {
+    "state": "NE",
+    "state_name": "Nebraska",
+    "enabled": true,
+    "source_type": "direct_file",
+    "file_url": "https://revenue.nebraska.gov/sites/default/files/doc/cig/cert_dir_ends_mfrs.xlsx",
+    "source_page_url": "https://revenue.nebraska.gov/businesses/cigarettes-other-tobacco-products",
+    "file_type": "xlsx",
+    "sheet_name": "Directory of Certified ENDS",
+    "header_row": 1,
+    "identity_columns": [
+      "Package UPC",
+      "SKU",
+      "Legal Name",
+      "Product Name"
+    ],
+    "display_columns": [
+      "Legal Name",
+      "DBA",
+      "Product Name",
+      "SKU",
+      "Package UPC",
+      "Units per Package",
+      "mL per Unit",
+      "Product Category",
+      "Characterizing Flavor",
+      "Date Added to Directory"
+    ]
+  }
+]

@@ -1,0 +1,244 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>State Vapor / ENDS Registry Change Tracker</title>
+  <style>
+    :root { --bg:#f7f7f8; --text:#1f2937; --muted:#6b7280; --card:white; --line:#e5e7eb; --head:#111827; --link:#2563eb; }
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 0; background: var(--bg); color: var(--text); }
+    header { background: var(--head); color: white; padding: 28px 20px; }
+    header p { margin: 8px 0 0; color:#d1d5db; }
+    main { max-width: 1240px; margin: 0 auto; padding: 22px; }
+    .toolbar { display:flex; gap:12px; flex-wrap:wrap; align-items:center; margin:18px 0; }
+    select, input { padding: 11px 13px; border: 1px solid #d1d5db; border-radius: 10px; font-size: 15px; background:white; box-sizing: border-box; }
+    input { width: min(100%, 680px); flex: 1 1 360px; }
+    .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(178px, 1fr)); gap: 14px; margin: 18px 0; }
+    .card { background: var(--card); border-radius: 12px; padding: 16px; box-shadow: 0 1px 3px rgba(0,0,0,.08); }
+    .metric { font-size: 34px; font-weight: 760; margin-top: 5px; }
+    .small { color: var(--muted); font-size: 14px; }
+    table { width: 100%; border-collapse: collapse; background: white; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,.08); }
+    th, td { padding: 10px 12px; border-bottom: 1px solid var(--line); text-align: left; vertical-align: top; font-size: 14px; }
+    th { background: #f3f4f6; font-size: 12px; text-transform: uppercase; letter-spacing: .03em; color: #4b5563; }
+    tr:last-child td { border-bottom: 0; }
+    .pill { display: inline-block; padding: 3px 9px; border-radius: 999px; background: #e5e7eb; font-size: 12px; }
+    section { margin: 28px 0; }
+    a { color: var(--link); }
+    .error { color: #991b1b; background: #fee2e2; padding: 14px; border-radius: 10px; }
+    .empty { color:#6b7280; background:#fff; padding:16px; border-radius:12px; }
+    .state-grid { display:grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap:12px; }
+    .state-card { cursor:pointer; border: 2px solid transparent; }
+    .state-card:hover { border-color:#d1d5db; }
+    .state-card.active { border-color:#111827; }
+    .change-block { margin-top: 22px; }
+    code { background:#f3f4f6; padding:2px 5px; border-radius:5px; }
+  </style>
+</head>
+<body>
+<header>
+  <h1>State Vapor / ENDS Registry Change Tracker</h1>
+  <p>Daily public snapshots and change logs for state vapor product directories.</p>
+</header>
+<main>
+  <div id="status" class="small">Loading registry data…</div>
+
+  <section>
+    <h2>State overview</h2>
+    <div id="stateOverview" class="state-grid"></div>
+  </section>
+
+  <section>
+    <h2>Selected state</h2>
+    <div class="toolbar">
+      <label class="small">State<br><select id="stateSelect"></select></label>
+      <input id="filter" placeholder="Search added/removed/changed rows by manufacturer, brand, product, UPC, SKU, flavor…" />
+    </div>
+
+    <div class="cards">
+      <div class="card"><div class="small">Total current rows</div><div class="metric" id="rowCount">—</div></div>
+      <div class="card"><div class="small">Added since prior snapshot</div><div class="metric" id="addedCount">—</div></div>
+      <div class="card"><div class="small">Removed since prior snapshot</div><div class="metric" id="removedCount">—</div></div>
+      <div class="card"><div class="small">Changed rows</div><div class="metric" id="changedCount">—</div></div>
+    </div>
+
+    <p class="small" id="sourceInfo"></p>
+    <div id="tables"></div>
+  </section>
+
+  <section>
+    <h2>Recent history</h2>
+    <div id="history"></div>
+  </section>
+</main>
+
+<script>
+let registryIndex = null;
+let selectedState = null;
+let latest = null;
+
+function esc(value) {
+  return String(value ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c]));
+}
+
+function fmtDate(value) {
+  if (!value) return "unknown";
+  try { return new Date(value).toLocaleString(); } catch { return value; }
+}
+
+function rowMatches(row, q) {
+  if (!q) return true;
+  if (row.changes) {
+    return [row.identifier, row.manufacturer, row.brand, row.product, JSON.stringify(row.changes)].join(" ").toLowerCase().includes(q.toLowerCase());
+  }
+  return Object.values(row).join(" ").toLowerCase().includes(q.toLowerCase());
+}
+
+function bestColumns(rows, preferred) {
+  const columns = [];
+  for (const c of preferred || []) {
+    if (rows.some(r => r[c] !== undefined)) columns.push(c);
+  }
+  if (columns.length) return columns;
+  const seen = new Set();
+  for (const row of rows.slice(0, 25)) {
+    for (const c of Object.keys(row)) {
+      if (!seen.has(c)) { seen.add(c); columns.push(c); }
+      if (columns.length >= 10) return columns;
+    }
+  }
+  return columns;
+}
+
+function renderRows(title, rows, type) {
+  const q = document.getElementById("filter").value.trim();
+  const filtered = rows.filter(r => rowMatches(r, q));
+  const cols = bestColumns(filtered, latest?.display_columns || []);
+  if (!filtered.length) return `<div class="change-block"><h3>${title} <span class="pill">0</span></h3><p class="empty">No matching rows.</p></div>`;
+  return `
+    <div class="change-block">
+      <h3>${title} <span class="pill">${filtered.length}</span></h3>
+      <table>
+        <thead><tr>${cols.map(c => `<th>${esc(c)}</th>`).join("")}</tr></thead>
+        <tbody>
+          ${filtered.slice(0, 500).map(row => `<tr>${cols.map(c => `<td>${esc(row[c])}</td>`).join("")}</tr>`).join("")}
+        </tbody>
+      </table>
+      ${filtered.length > 500 ? `<p class="small">Showing first 500 matching ${type} rows.</p>` : ""}
+    </div>
+  `;
+}
+
+function renderChanged(rows) {
+  const q = document.getElementById("filter").value.trim();
+  const filtered = rows.filter(r => rowMatches(r, q));
+  if (!filtered.length) return `<div class="change-block"><h3>Changed rows <span class="pill">0</span></h3><p class="empty">No matching changed rows.</p></div>`;
+  return `
+    <div class="change-block">
+      <h3>Changed rows <span class="pill">${filtered.length}</span></h3>
+      <table>
+        <thead><tr><th>Identifier</th><th>Manufacturer</th><th>Brand/DBA</th><th>Product</th><th>Field changes</th></tr></thead>
+        <tbody>
+          ${filtered.slice(0, 500).map(row => `<tr>
+            <td>${esc(row.identifier)}</td>
+            <td>${esc(row.manufacturer)}</td>
+            <td>${esc(row.brand)}</td>
+            <td>${esc(row.product)}</td>
+            <td>${Object.entries(row.changes || {}).map(([field, vals]) => `<b>${esc(field)}</b>: ${esc(vals.before)} → ${esc(vals.after)}`).join("<br>")}</td>
+          </tr>`).join("")}
+        </tbody>
+      </table>
+      ${filtered.length > 500 ? `<p class="small">Showing first 500 matching changed rows.</p>` : ""}
+    </div>
+  `;
+}
+
+function renderSelectedState() {
+  if (!latest) return;
+  const changes = latest.changes || { added: [], removed: [], changed: [] };
+  document.getElementById("rowCount").textContent = latest.row_count ?? "—";
+  document.getElementById("addedCount").textContent = latest.counts?.added ?? "—";
+  document.getElementById("removedCount").textContent = latest.counts?.removed ?? "—";
+  document.getElementById("changedCount").textContent = latest.counts?.changed ?? "—";
+  const sourceLink = latest.source_url ? `<a href="${esc(latest.source_url)}" target="_blank" rel="noopener">source page</a>` : "source page";
+  const fileLink = latest.source_file_url ? `<a href="${esc(latest.source_file_url)}" target="_blank" rel="noopener">source file</a>` : "source file";
+  document.getElementById("sourceInfo").innerHTML = `Last generated: <b>${esc(fmtDate(latest.generated_at_utc))}</b>. Compared to snapshot: <b>${esc(latest.compared_to_snapshot || "none")}</b>. Identity columns: <code>${esc((latest.identity_columns_used || []).join(", "))}</code>. Links: ${sourceLink}; ${fileLink}.`;
+  document.getElementById("tables").innerHTML =
+    renderRows("Added rows", changes.added || [], "added") +
+    renderRows("Removed rows", changes.removed || [], "removed") +
+    renderChanged(changes.changed || []);
+}
+
+function renderHistory(stateIndex) {
+  const rows = stateIndex.history || [];
+  if (!rows.length) {
+    document.getElementById("history").innerHTML = `<p class="empty">No history yet. Run the GitHub Actions workflow once.</p>`;
+    return;
+  }
+  document.getElementById("history").innerHTML = rows.map(h => `
+    <div class="card" style="margin-bottom:10px">
+      <b>${esc(h.date)}</b> — rows: ${esc(h.row_count)}; added: ${esc(h.counts?.added ?? 0)}; removed: ${esc(h.counts?.removed ?? 0)}; changed: ${esc(h.counts?.changed ?? 0)}
+    </div>
+  `).join("");
+}
+
+function renderOverview() {
+  const cards = (registryIndex.states || []).map(state => {
+    const latestHistory = (state.history || [])[0] || {};
+    const counts = latestHistory.counts || {};
+    const active = selectedState && state.state === selectedState.state ? "active" : "";
+    return `
+      <div class="card state-card ${active}" onclick="selectState('${esc(state.state)}')">
+        <h3>${esc(state.state_name || state.state)} <span class="pill">${esc(state.state)}</span></h3>
+        <div class="small">Rows: ${esc(latestHistory.row_count ?? "—")}</div>
+        <div class="small">Latest: ${esc(latestHistory.date || "not run")}</div>
+        <div style="margin-top:8px">Added ${esc(counts.added ?? 0)} · Removed ${esc(counts.removed ?? 0)} · Changed ${esc(counts.changed ?? 0)}</div>
+      </div>
+    `;
+  }).join("");
+  document.getElementById("stateOverview").innerHTML = cards || `<p class="empty">No states configured.</p>`;
+}
+
+async function selectState(stateAbbrev) {
+  selectedState = (registryIndex.states || []).find(s => s.state === stateAbbrev) || null;
+  if (!selectedState) return;
+  document.getElementById("stateSelect").value = stateAbbrev;
+  renderOverview();
+
+  if (!selectedState.latest_change_file) {
+    latest = null;
+    document.getElementById("rowCount").textContent = "—";
+    document.getElementById("addedCount").textContent = "—";
+    document.getElementById("removedCount").textContent = "—";
+    document.getElementById("changedCount").textContent = "—";
+    document.getElementById("sourceInfo").innerHTML = `No data has been generated yet for ${esc(selectedState.state_name)}.`;
+    document.getElementById("tables").innerHTML = `<p class="empty">Run the GitHub Actions workflow once to create the first snapshot.</p>`;
+    renderHistory(selectedState);
+    return;
+  }
+
+  latest = await fetch(selectedState.latest_change_file, { cache: "no-store" }).then(r => r.json());
+  renderSelectedState();
+  renderHistory(selectedState);
+}
+
+async function init() {
+  try {
+    registryIndex = await fetch("data/registry_index.json", { cache: "no-store" }).then(r => r.json());
+    document.getElementById("status").textContent = `Registry index generated: ${fmtDate(registryIndex.generated_at_utc)}`;
+    const select = document.getElementById("stateSelect");
+    select.innerHTML = (registryIndex.states || []).map(s => `<option value="${esc(s.state)}">${esc(s.state_name || s.state)} (${esc(s.state)})</option>`).join("");
+    select.addEventListener("change", e => selectState(e.target.value));
+    document.getElementById("filter").addEventListener("input", renderSelectedState);
+    renderOverview();
+    const firstWithData = (registryIndex.states || []).find(s => s.latest_change_file) || (registryIndex.states || [])[0];
+    if (firstWithData) await selectState(firstWithData.state);
+  } catch (err) {
+    document.getElementById("status").innerHTML = `<div class="error">${esc(err.message)}</div>`;
+  }
+}
+
+window.selectState = selectState;
+init();
+</script>
+</body>
+</html>
