@@ -1,16 +1,30 @@
 {
-  "generated_at_utc": null,
+  "generated_at_utc": "2026-05-31T16:11:00.637752+00:00",
   "states": [
     {
       "state": "NC",
       "state_name": "North Carolina",
       "enabled": true,
       "source_url": "https://www.ncdor.gov/taxes-forms/other-taxes-and-fees/vapor-product-and-consumable-product-certification-and-directory/vapor-certification-directory",
-      "source_file_url": null,
+      "source_file_url": "https://files.nc.gov/dor/2026-05/ApprovedVaporProducts_05-18-2026.csv?VersionId=f87tdWVEdVfLo88IK8xEFBzFBOdnfR1s",
       "latest_csv_file": "data/nc/latest.csv",
       "latest_json_file": "data/nc/latest.json",
-      "latest_change_file": null,
-      "history": []
+      "latest_change_file": "data/nc/changes/2026-05-31.json",
+      "history": [
+        {
+          "date": "2026-05-31",
+          "file": "data/nc/changes/2026-05-31.json",
+          "row_count": 1029,
+          "counts": {
+            "added": 1029,
+            "removed": 0,
+            "changed": 0
+          },
+          "source_file_url": "https://files.nc.gov/dor/2026-05/ApprovedVaporProducts_05-18-2026.csv?VersionId=f87tdWVEdVfLo88IK8xEFBzFBOdnfR1s",
+          "source_page_last_modified": "05/19/2026",
+          "generated_at_utc": "2026-05-31T16:11:00.637752+00:00"
+        }
+      ]
     },
     {
       "state": "NE",
@@ -20,8 +34,22 @@
       "source_file_url": "https://revenue.nebraska.gov/sites/default/files/doc/cig/cert_dir_ends_mfrs.xlsx",
       "latest_csv_file": "data/ne/latest.csv",
       "latest_json_file": "data/ne/latest.json",
-      "latest_change_file": null,
-      "history": []
+      "latest_change_file": "data/ne/changes/2026-05-31.json",
+      "history": [
+        {
+          "date": "2026-05-31",
+          "file": "data/ne/changes/2026-05-31.json",
+          "row_count": 3414,
+          "counts": {
+            "added": 3414,
+            "removed": 0,
+            "changed": 0
+          },
+          "source_file_url": "https://revenue.nebraska.gov/sites/default/files/doc/cig/cert_dir_ends_mfrs.xlsx",
+          "source_page_last_modified": null,
+          "generated_at_utc": "2026-05-31T16:11:00.637752+00:00"
+        }
+      ]
     }
   ]
 }
