@@ -1,0 +1,124 @@
+{
+  "state": "NE",
+  "state_name": "Nebraska",
+  "generated_at_utc": "2026-06-01T21:56:42.700353+00:00",
+  "source_url": "https://revenue.nebraska.gov/businesses/cigarettes-other-tobacco-products",
+  "source_file_url": "https://revenue.nebraska.gov/sites/default/files/doc/cig/cert_dir_ends_mfrs.xlsx",
+  "source_content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "source_page_last_modified": null,
+  "row_count": 3420,
+  "columns": [
+    "Legal Name",
+    "DBA",
+    "Product Name",
+    "SKU",
+    "Package UPC",
+    "Units per Package",
+    "mL per Unit",
+    "Product Category",
+    "Characterizing Flavor",
+    "Date Added to Directory"
+  ],
+  "identity_columns_used": [
+    "Package UPC",
+    "SKU",
+    "Legal Name",
+    "Product Name"
+  ],
+  "display_columns": [
+    "Legal Name",
+    "DBA",
+    "Product Name",
+    "SKU",
+    "Package UPC",
+    "Units per Package",
+    "mL per Unit",
+    "Product Category",
+    "Characterizing Flavor",
+    "Date Added to Directory"
+  ],
+  "compared_to_snapshot": "2026-05-31.csv",
+  "counts": {
+    "added": 6,
+    "removed": 0,
+    "changed": 0
+  },
+  "changes": {
+    "added": [
+      {
+        "Legal Name": "E-Liquid Brands, LLC",
+        "DBA": "E-Liquid Brands, LLC",
+        "Product Name": "Prime Salts, Oh My Guav, 30ml, 36mg",
+        "SKU": "234236",
+        "Package UPC": "QR Code",
+        "Units per Package": "1",
+        "mL per Unit": "30",
+        "Product Category": "E-liquid",
+        "Characterizing Flavor": "Fruit",
+        "Date Added to Directory": "2026-06-01"
+      },
+      {
+        "Legal Name": "E-Liquid Brands, LLC",
+        "DBA": "E-Liquid Brands, LLC",
+        "Product Name": "Prime Black, Oh My Guav, 120ml, 12mg",
+        "SKU": "87255B",
+        "Package UPC": "QR Code",
+        "Units per Package": "1",
+        "mL per Unit": "120",
+        "Product Category": "E-liquid",
+        "Characterizing Flavor": "Fruit",
+        "Date Added to Directory": "2026-06-01"
+      },
+      {
+        "Legal Name": "E-Liquid Brands, LLC",
+        "DBA": "E-Liquid Brands, LLC",
+        "Product Name": "Prime Black, Oh My Guav, 120ml, 3mg",
+        "SKU": "872551",
+        "Package UPC": "QR Code",
+        "Units per Package": "1",
+        "mL per Unit": "120",
+        "Product Category": "E-liquid",
+        "Characterizing Flavor": "Fruit",
+        "Date Added to Directory": "2026-06-01"
+      },
+      {
+        "Legal Name": "E-Liquid Brands, LLC",
+        "DBA": "E-Liquid Brands, LLC",
+        "Product Name": "Prime Salts, Oh My Guav, 30ml, 24mg",
+        "SKU": "234235",
+        "Package UPC": "QR Code",
+        "Units per Package": "1",
+        "mL per Unit": "30",
+        "Product Category": "E-liquid",
+        "Characterizing Flavor": "Fruit",
+        "Date Added to Directory": "2026-06-01"
+      },
+      {
+        "Legal Name": "E-Liquid Brands, LLC",
+        "DBA": "E-Liquid Brands, LLC",
+        "Product Name": "Prime Salts, Oh My Guav,30ml, 45mg",
+        "SKU": "23423S",
+        "Package UPC": "QR Code",
+        "Units per Package": "1",
+        "mL per Unit": "30",
+        "Product Category": "E-liquid",
+        "Characterizing Flavor": "Fruit",
+        "Date Added to Directory": "2026-06-01"
+      },
+      {
+        "Legal Name": "E-Liquid Brands, LLC",
+        "DBA": "E-Liquid Brands, LLC",
+        "Product Name": "Prime Black, Oh My Guav, 120ml, 6mg",
+        "SKU": "872552",
+        "Package UPC": "QR Code",
+        "Units per Package": "1",
+        "mL per Unit": "120",
+        "Product Category": "E-liquid",
+        "Characterizing Flavor": "Fruit",
+        "Date Added to Directory": "2026-06-01"
+      }
+    ],
+    "removed": [],
+    "changed": []
+  }
+}
