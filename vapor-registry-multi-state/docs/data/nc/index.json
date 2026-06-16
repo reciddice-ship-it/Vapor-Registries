@@ -6,8 +6,21 @@
   "source_file_url": "https://files.nc.gov/dor/2026-06/ApprovedVaporProducts_06032026.csv?VersionId=.gk4C8XGd2mUp2kjrQbrip1dQfKZ3Zkd",
   "latest_csv_file": "data/nc/latest.csv",
   "latest_json_file": "data/nc/latest.json",
-  "latest_change_file": "data/nc/changes/2026-06-15.json",
+  "latest_change_file": "data/nc/changes/2026-06-16.json",
   "history": [
+    {
+      "date": "2026-06-16",
+      "file": "data/nc/changes/2026-06-16.json",
+      "row_count": 817,
+      "counts": {
+        "added": 0,
+        "removed": 0,
+        "changed": 0
+      },
+      "source_file_url": "https://files.nc.gov/dor/2026-06/ApprovedVaporProducts_06032026.csv?VersionId=.gk4C8XGd2mUp2kjrQbrip1dQfKZ3Zkd",
+      "source_page_last_modified": "06/04/2026",
+      "generated_at_utc": "2026-06-16T20:33:24.672374+00:00"
+    },
     {
       "date": "2026-06-15",
       "file": "data/nc/changes/2026-06-15.json",
