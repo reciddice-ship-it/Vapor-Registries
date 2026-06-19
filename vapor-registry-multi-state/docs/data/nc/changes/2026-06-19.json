@@ -1,0 +1,45 @@
+{
+  "state": "NC",
+  "state_name": "North Carolina",
+  "generated_at_utc": "2026-06-19T17:31:36.836180+00:00",
+  "source_url": "https://www.ncdor.gov/taxes-forms/other-taxes-and-fees/vapor-product-and-consumable-product-certification-and-directory/vapor-certification-directory",
+  "source_file_url": "https://files.nc.gov/dor/2026-06/ApprovedVaporProducts_06032026.csv?VersionId=.gk4C8XGd2mUp2kjrQbrip1dQfKZ3Zkd",
+  "source_content_type": "text/csv",
+  "source_page_last_modified": "06/04/2026",
+  "row_count": 817,
+  "columns": [
+    "Unique Product Identifier (UPC or SKU)",
+    "Manufacturer",
+    "Brand Name",
+    "Product Name",
+    "Category",
+    "Flavor",
+    "Date Added to Directory"
+  ],
+  "identity_columns_used": [
+    "Unique Product Identifier (UPC or SKU)",
+    "Manufacturer",
+    "Brand Name",
+    "Product Name"
+  ],
+  "display_columns": [
+    "Unique Product Identifier (UPC or SKU)",
+    "Manufacturer",
+    "Brand Name",
+    "Product Name",
+    "Category",
+    "Flavor",
+    "Date Added to Directory"
+  ],
+  "compared_to_snapshot": "2026-06-18.csv",
+  "counts": {
+    "added": 0,
+    "removed": 0,
+    "changed": 0
+  },
+  "changes": {
+    "added": [],
+    "removed": [],
+    "changed": []
+  }
+}
