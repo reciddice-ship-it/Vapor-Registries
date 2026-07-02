@@ -1,0 +1,294 @@
+{
+  "state": "NC",
+  "state_name": "North Carolina",
+  "generated_at_utc": "2026-07-02T12:20:30.535806+00:00",
+  "source_url": "https://www.ncdor.gov/taxes-forms/other-taxes-and-fees/vapor-product-and-consumable-product-certification-and-directory/vapor-certification-directory",
+  "source_file_url": "https://files.nc.gov/dor/2026-07/ApprovedVaporProducts%2006.30.2026.csv?VersionId=n8ivyPU2yX60jI5hDNEDKzesFXcqUcIG",
+  "source_content_type": "text/csv",
+  "source_page_last_modified": "07/01/2026",
+  "row_count": 819,
+  "columns": [
+    "Unique Product Identifier (UPC or SKU)",
+    "Manufacturer",
+    "Brand Name",
+    "Product Name",
+    "Category",
+    "Flavor",
+    "Date Added to Directory"
+  ],
+  "identity_columns_used": [
+    "Unique Product Identifier (UPC or SKU)",
+    "Manufacturer",
+    "Brand Name",
+    "Product Name"
+  ],
+  "display_columns": [
+    "Unique Product Identifier (UPC or SKU)",
+    "Manufacturer",
+    "Brand Name",
+    "Product Name",
+    "Category",
+    "Flavor",
+    "Date Added to Directory"
+  ],
+  "compared_to_snapshot": "2026-07-01.csv",
+  "counts": {
+    "added": 6,
+    "removed": 4,
+    "changed": 13
+  },
+  "changes": {
+    "added": [
+      {
+        "Unique Product Identifier (UPC or SKU)": "819979012637",
+        "Manufacturer": "NJOY, LLC",
+        "Brand Name": "Njoy",
+        "Product Name": "All-in-one Kit Device + Menthol 5% 1-pod",
+        "Category": "E-liquid Pod",
+        "Flavor": "Menthol",
+        "Date Added to Directory": "06/16/2026"
+      },
+      {
+        "Unique Product Identifier (UPC or SKU)": "819979012651",
+        "Manufacturer": "NJOY, LLC",
+        "Brand Name": "Njoy",
+        "Product Name": "All-in-one Kit Device + Classic Tobacco 5% 1-pod",
+        "Category": "E-liquid Pod",
+        "Flavor": "Classic Tobacco",
+        "Date Added to Directory": "06/16/2026"
+      },
+      {
+        "Unique Product Identifier (UPC or SKU)": "819979012699",
+        "Manufacturer": "NJOY, LLC",
+        "Brand Name": "Njoy",
+        "Product Name": "All-in-one Kit Device + Menthol 5% 2-pod",
+        "Category": "E-liquid Pod",
+        "Flavor": "Menthol",
+        "Date Added to Directory": "06/16/2026"
+      },
+      {
+        "Unique Product Identifier (UPC or SKU)": "819979012675",
+        "Manufacturer": "NJOY, LLC",
+        "Brand Name": "Njoy",
+        "Product Name": "All-in-one Kit Device + Classic Tobacco 5% 2-pod",
+        "Category": "E-liquid Pod",
+        "Flavor": "Classic Tobacco",
+        "Date Added to Directory": "06/16/2026"
+      },
+      {
+        "Unique Product Identifier (UPC or SKU)": "819979011029",
+        "Manufacturer": "NJOY, LLC",
+        "Brand Name": "Njoy",
+        "Product Name": "Njoy Ace Pods Rich Tobacco 5% 2ct",
+        "Category": "E-liquid Pod",
+        "Flavor": "Rich Tobacco",
+        "Date Added to Directory": "06/16/2026"
+      },
+      {
+        "Unique Product Identifier (UPC or SKU)": "810687014937",
+        "Manufacturer": "NJOY, LLC",
+        "Brand Name": "Njoy",
+        "Product Name": "Njoy Ace Pod Menthol 5% 2ct",
+        "Category": "E-liquid Pod",
+        "Flavor": "Menthol",
+        "Date Added to Directory": "06/16/2026"
+      }
+    ],
+    "removed": [
+      {
+        "Unique Product Identifier (UPC or SKU)": "810687014937",
+        "Manufacturer": "NJOY, LLC",
+        "Brand Name": "Njoy",
+        "Product Name": "Njoy Ace Pods Menthol 5% 2ct",
+        "Category": "E-liquid Pod",
+        "Flavor": "Menthol",
+        "Date Added to Directory": "05/01/2025"
+      },
+      {
+        "Unique Product Identifier (UPC or SKU)": "819979011395",
+        "Manufacturer": "NJOY, LLC",
+        "Brand Name": "Njoy",
+        "Product Name": "Njoy Ace Device",
+        "Category": "Device",
+        "Flavor": "N/A",
+        "Date Added to Directory": "05/01/2025"
+      },
+      {
+        "Unique Product Identifier (UPC or SKU)": "819979011371",
+        "Manufacturer": "NJOY, LLC",
+        "Brand Name": "Njoy",
+        "Product Name": "Njoy Ace Device $0.99",
+        "Category": "Device",
+        "Flavor": "N/A",
+        "Date Added to Directory": "05/01/2025"
+      },
+      {
+        "Unique Product Identifier (UPC or SKU)": "819979011029",
+        "Manufacturer": "NJOY, LLC",
+        "Brand Name": "Njoy",
+        "Product Name": "Njoy Ace Pods Menthol 2.4% 2ct",
+        "Category": "E-liquid Pod",
+        "Flavor": "Rich Tobacco",
+        "Date Added to Directory": "05/01/2025"
+      }
+    ],
+    "changed": [
+      {
+        "identifier": "810687014838",
+        "manufacturer": "NJOY, LLC",
+        "brand": "Njoy",
+        "product": "Njoy Ace Pods Classic Tobacco 2.4% 2ct",
+        "changes": {
+          "Date Added to Directory": {
+            "before": "05/01/2025",
+            "after": "06/16/2026"
+          }
+        }
+      },
+      {
+        "identifier": "815368021488",
+        "manufacturer": "NJOY, LLC",
+        "brand": "Njoy",
+        "product": "Njoy Daily Extra Menthol 6%",
+        "changes": {
+          "Date Added to Directory": {
+            "before": "05/01/2025",
+            "after": "06/16/2026"
+          }
+        }
+      },
+      {
+        "identifier": "819979012248",
+        "manufacturer": "NJOY, LLC",
+        "brand": "Njoy",
+        "product": "Njoy Ace Pod Menthol 5% 1ct",
+        "changes": {
+          "Date Added to Directory": {
+            "before": "05/27/2025",
+            "after": "06/16/2026"
+          }
+        }
+      },
+      {
+        "identifier": "819979012200",
+        "manufacturer": "NJOY, LLC",
+        "brand": "Njoy",
+        "product": "Njoy Ace Pod Classic Tobacco 5% 1ct",
+        "changes": {
+          "Date Added to Directory": {
+            "before": "05/01/2025",
+            "after": "06/16/2026"
+          }
+        }
+      },
+      {
+        "identifier": "810687020884",
+        "manufacturer": "NJOY, LLC",
+        "brand": "Njoy",
+        "product": "Njoy Daily Menthol 4.5%",
+        "changes": {
+          "Date Added to Directory": {
+            "before": "05/01/2025",
+            "after": "06/16/2026"
+          }
+        }
+      },
+      {
+        "identifier": "810687020860",
+        "manufacturer": "NJOY, LLC",
+        "brand": "Njoy",
+        "product": "Njoy Daily Rich Tobacco 4.5%",
+        "changes": {
+          "Date Added to Directory": {
+            "before": "05/01/2025",
+            "after": "06/16/2026"
+          }
+        }
+      },
+      {
+        "identifier": "815368021426",
+        "manufacturer": "NJOY, LLC",
+        "brand": "Njoy",
+        "product": "Njoy Daily Extra Rich Tobacco 6%",
+        "changes": {
+          "Date Added to Directory": {
+            "before": "05/01/2025",
+            "after": "06/16/2026"
+          }
+        }
+      },
+      {
+        "identifier": "684417989457",
+        "manufacturer": "Coastal Clouds LLC",
+        "brand": "Coastal Clouds",
+        "product": "Iced Blood Orange Mango 6mg 60ml",
+        "changes": {
+          "Flavor": {
+            "before": "Blood Orange, Mango, Lemon",
+            "after": "Blood Orange, Mango, Lemo"
+          }
+        }
+      },
+      {
+        "identifier": "810687014852",
+        "manufacturer": "NJOY, LLC",
+        "brand": "Njoy",
+        "product": "Njoy Ace Pods Menthol 2.4% 2ct",
+        "changes": {
+          "Date Added to Directory": {
+            "before": "05/01/2025",
+            "after": "06/16/2026"
+          }
+        }
+      },
+      {
+        "identifier": "810687014913",
+        "manufacturer": "NJOY, LLC",
+        "brand": "Njoy",
+        "product": "Njoy Ace Pods Classic Tobacco 5% 2ct",
+        "changes": {
+          "Date Added to Directory": {
+            "before": "05/01/2025",
+            "after": "06/16/2026"
+          }
+        }
+      },
+      {
+        "identifier": "684417989440",
+        "manufacturer": "Coastal Clouds LLC",
+        "brand": "Coastal Clouds",
+        "product": "Iced Blood Orange Mango 3mg 60ml",
+        "changes": {
+          "Flavor": {
+            "before": "Blood Orange, Mango, Lemon",
+            "after": "Blood Orange, Mango, Lemo"
+          }
+        }
+      },
+      {
+        "identifier": "601956370737",
+        "manufacturer": "Maduro Distributors Inc dba The Loon",
+        "brand": "Loon",
+        "product": "Loon Air Maxx",
+        "changes": {
+          "Flavor": {
+            "before": "Blue Raspberry (blue Razz",
+            "after": "Blue Raspberry (blue Razz)"
+          }
+        }
+      },
+      {
+        "identifier": "887969008847",
+        "manufacturer": "Fontem US LLC",
+        "brand": "Myblu",
+        "product": "Myblu Starter Pack Gold Leaf 2.4%",
+        "changes": {
+          "Flavor": {
+            "before": "N/A - Gold Leaf",
+            "after": "N/A, Gold Leaf"
+          }
+        }
+      }
+    ]
+  }
+}
