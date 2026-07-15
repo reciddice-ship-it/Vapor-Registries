@@ -1,0 +1,51 @@
+{
+  "state": "NE",
+  "state_name": "Nebraska",
+  "generated_at_utc": "2026-07-15T11:46:45.308858+00:00",
+  "source_url": "https://revenue.nebraska.gov/businesses/cigarettes-other-tobacco-products",
+  "source_file_url": "https://revenue.nebraska.gov/sites/default/files/doc/cig/cert_dir_ends_mfrs.xlsx",
+  "source_content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "source_page_last_modified": null,
+  "row_count": 3519,
+  "columns": [
+    "Legal Name",
+    "DBA",
+    "Product Name",
+    "SKU",
+    "Package UPC",
+    "Units per Package",
+    "mL per Unit",
+    "Product Category",
+    "Characterizing Flavor",
+    "Date Added to Directory"
+  ],
+  "identity_columns_used": [
+    "Package UPC",
+    "SKU",
+    "Legal Name",
+    "Product Name"
+  ],
+  "display_columns": [
+    "Legal Name",
+    "DBA",
+    "Product Name",
+    "SKU",
+    "Package UPC",
+    "Units per Package",
+    "mL per Unit",
+    "Product Category",
+    "Characterizing Flavor",
+    "Date Added to Directory"
+  ],
+  "compared_to_snapshot": "2026-07-14.csv",
+  "counts": {
+    "added": 0,
+    "removed": 0,
+    "changed": 0
+  },
+  "changes": {
+    "added": [],
+    "removed": [],
+    "changed": []
+  }
+}
