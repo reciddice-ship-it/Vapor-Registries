@@ -1,0 +1,814 @@
+{
+  "state": "NC",
+  "state_name": "North Carolina",
+  "generated_at_utc": "2026-08-04T12:16:43.439444+00:00",
+  "source_url": "https://www.ncdor.gov/taxes-forms/other-taxes-and-fees/vapor-product-and-consumable-product-certification-and-directory/vapor-certification-directory",
+  "source_file_url": "https://files.nc.gov/dor/2026-08/ApprovedVaporProducts%2007.30.2026.csv?VersionId=57WnX0ucatn5vM7N3ta_E3G0Udkwwo82",
+  "source_content_type": "text/csv",
+  "source_page_last_modified": "08/03/2026",
+  "row_count": 819,
+  "columns": [
+    "Unique Product Identifier (UPC or SKU)",
+    "Manufacturer",
+    "Brand Name",
+    "Product Name",
+    "Category",
+    "Flavor",
+    "Date Added to Directory"
+  ],
+  "identity_columns_used": [
+    "Unique Product Identifier (UPC or SKU)",
+    "Manufacturer",
+    "Brand Name",
+    "Product Name"
+  ],
+  "display_columns": [
+    "Unique Product Identifier (UPC or SKU)",
+    "Manufacturer",
+    "Brand Name",
+    "Product Name",
+    "Category",
+    "Flavor",
+    "Date Added to Directory"
+  ],
+  "compared_to_snapshot": "2026-08-03.csv",
+  "counts": {
+    "added": 0,
+    "removed": 0,
+    "changed": 64
+  },
+  "changes": {
+    "added": [],
+    "removed": [],
+    "changed": [
+      {
+        "identifier": "788782965044",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Peach Pear Freeze",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "750253728410",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Strawberry Kiwi",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "762876650160",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Guava Peach Salt",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "788782962623",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Bam's Cannoli",
+        "product": "Bam's Cannoli Strawberry",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "788782962678",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Watermelon Lime Salt",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "788782962579",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Bam's Cannoli",
+        "product": "Bam's Cannoli Original",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "788782964177",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Pineapple Grapefruit Salt",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "900103060",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Galil 60ml 3mg",
+        "changes": {
+          "Flavor": {
+            "before": "Creme Burlee & Hazelnut",
+            "after": "Creme Brulee & Hazelnut"
+          }
+        }
+      },
+      {
+        "identifier": "788782962555",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Bam's Cannoli",
+        "product": "Bam's Cannoli Birthday",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "600176052218",
+        "manufacturer": "Coastal Clouds LLC",
+        "brand": "Coastal Clouds",
+        "product": "Blood Orange Mango 3mg 60ml",
+        "changes": {
+          "Flavor": {
+            "before": "Blood Orange, Mango, Lemo",
+            "after": "Blood Orange, Mango, Lemon"
+          }
+        }
+      },
+      {
+        "identifier": "762876650177",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Guava Peach Salt",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "788782962685",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Watermelon Lime Salt",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "788782965099",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Strawberry Kiwi Freeze",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "750253729028",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Khali Vapors",
+        "product": "Khali Vapors Devil's Punchbowl Ice",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "850011519226",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Raspberry French 120ml 12mg",
+        "changes": {
+          "Flavor": {
+            "before": "Cream Raspberry Mixed Berry",
+            "after": "Cream Raspberry Mixedberry"
+          }
+        }
+      },
+      {
+        "identifier": "788782965167",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Blueberry Lemon Salt",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "788782962654",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Peach Pear Salt",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "788782964986",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Blueberry Lemon Freeze",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "788782963866",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Pineapple Grapefruit",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "887969008700",
+        "manufacturer": "Fontem US LLC",
+        "brand": "Blu Plus",
+        "product": "Blu Plus+ Xpress Kit (classic Tobacco)",
+        "changes": {
+          "Flavor": {
+            "before": "N/A - Tobacco",
+            "after": "NA / Tobacco"
+          }
+        }
+      },
+      {
+        "identifier": "1000718060",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Raspberry French 60ml 18mg",
+        "changes": {
+          "Flavor": {
+            "before": "Cream Raspberry Mixed Berry",
+            "after": "Cream Raspberry Mixedberry"
+          }
+        }
+      },
+      {
+        "identifier": "1000703060",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Raspberry French 60ml 3mg",
+        "changes": {
+          "Flavor": {
+            "before": "Cream Raspberry Mixed Berry",
+            "after": "Cream Raspberry Mixedberry"
+          }
+        }
+      },
+      {
+        "identifier": "900106060",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Galil 60ml 6mg",
+        "changes": {
+          "Flavor": {
+            "before": "Creme Burlee & Hazelnut",
+            "after": "Creme Brulee & Hazelnut"
+          }
+        }
+      },
+      {
+        "identifier": "750253728380",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Watermelon Lime",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "788782962692",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Strawberry Kiwi Salts",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "850011519219",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Raspberry French 120ml 6mg",
+        "changes": {
+          "Flavor": {
+            "before": "Cream Raspberry Mixed Berry",
+            "after": "Cream Raspberry Mixedberry"
+          }
+        }
+      },
+      {
+        "identifier": "788782962647",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Bam's Cannoli",
+        "product": "Bam's Cannoli Strawberry",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "788782965105",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Strawberry Kiwi Freeze",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "762876650153",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Guava Peach",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "1000706060",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Raspberry French 60ml 6mg",
+        "changes": {
+          "Flavor": {
+            "before": "Cream Raspberry Mixed Berry",
+            "after": "Cream Raspberry Mixedberry"
+          }
+        }
+      },
+      {
+        "identifier": "850083013066",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Galil 120ml 12mg",
+        "changes": {
+          "Flavor": {
+            "before": "Creme Burlee & Hazelnut",
+            "after": "Creme Brulee & Hazelnut"
+          }
+        }
+      },
+      {
+        "identifier": "788782965037",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Peach Pear Freeze",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "750253729066",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Khali Vapors",
+        "product": "Khali Vapors Devil's Punchbowl",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "850083013042",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Galil 120ml 3mg",
+        "changes": {
+          "Flavor": {
+            "before": "Creme Burlee & Hazelnut",
+            "after": "Creme Brulee & Hazelnut"
+          }
+        }
+      },
+      {
+        "identifier": "750253728397",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Watermelon Lime",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "788782962609",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Bam's Cannoli",
+        "product": "Bam's Cannoli Captain",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "788782962401",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Khali Vapors",
+        "product": "Khali Vapors Devil's Punchbowl Ice Salts",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "788782964184",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Pineapple Grapefruit Salt",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "788782962661",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Peach Pear Salt",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "900112060",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Galil 60ml 12mg",
+        "changes": {
+          "Flavor": {
+            "before": "Creme Burlee & Hazelnut",
+            "after": "Creme Brulee & Hazelnut"
+          }
+        }
+      },
+      {
+        "identifier": "788782965235",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Blueberry Lemon",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "788782964979",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Blueberry Lemon Freeze",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "750253729073",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Khali Vapors",
+        "product": "Khali Vapors Devil's Punchbowl",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "684417989457",
+        "manufacturer": "Coastal Clouds LLC",
+        "brand": "Coastal Clouds",
+        "product": "Iced Blood Orange Mango 6mg 60ml",
+        "changes": {
+          "Flavor": {
+            "before": "Blood Orange, Mango, Lemo",
+            "after": "Blood Orange, Mango, Lemon"
+          }
+        }
+      },
+      {
+        "identifier": "600176053031",
+        "manufacturer": "Coastal Clouds LLC",
+        "brand": "Coastal Clouds",
+        "product": "Tropical Lemonade 6mg 60ml",
+        "changes": {
+          "Flavor": {
+            "before": "Papaya, Mango, Lemon, Lim",
+            "after": "Papaya, Mango, Lemon, Lime"
+          }
+        }
+      },
+      {
+        "identifier": "788782962616",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Bam's Cannoli",
+        "product": "Bam's Cannoli Captain",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "788782962548",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Bam's Cannoli",
+        "product": "Bam's Cannoli Birthday",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "788782965228",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Blueberry Lemon",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "788782962708",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Strawberry Kiwi Salts",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "900118060",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Galil 60ml 18mg",
+        "changes": {
+          "Flavor": {
+            "before": "Creme Burlee & Hazelnut",
+            "after": "Creme Brulee & Hazelnut"
+          }
+        }
+      },
+      {
+        "identifier": "750253728403",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Strawberry Kiwi",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "762876650146",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Guava Peach",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "850083013059",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Galil 120ml 6mg",
+        "changes": {
+          "Flavor": {
+            "before": "Creme Burlee & Hazelnut",
+            "after": "Creme Brulee & Hazelnut"
+          }
+        }
+      },
+      {
+        "identifier": "1000712060",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Raspberry French 60ml 12mg",
+        "changes": {
+          "Flavor": {
+            "before": "Cream Raspberry Mixed Berry",
+            "after": "Cream Raspberry Mixedberry"
+          }
+        }
+      },
+      {
+        "identifier": "788782962395",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Khali Vapors",
+        "product": "Khali Vapors Devil's Punchbowl Ice Salts",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "600176052225",
+        "manufacturer": "Coastal Clouds LLC",
+        "brand": "Coastal Clouds",
+        "product": "Blood Orange Mango 6mg 60ml",
+        "changes": {
+          "Flavor": {
+            "before": "Blood Orange, Mango, Lemo",
+            "after": "Blood Orange, Mango, Lemon"
+          }
+        }
+      },
+      {
+        "identifier": "788782962586",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Bam's Cannoli",
+        "product": "Bam's Cannoli Original",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "600176053024",
+        "manufacturer": "Coastal Clouds LLC",
+        "brand": "Coastal Clouds",
+        "product": "Tropical Lemonade 3mg 60ml",
+        "changes": {
+          "Flavor": {
+            "before": "Papaya, Mango, Lemon, Lim",
+            "after": "Papaya, Mango, Lemon, Lime"
+          }
+        }
+      },
+      {
+        "identifier": "788782965136",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Blueberry Lemon Salt",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "788782963859",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Pineapple Grapefruit",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "750253727796",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Peach Pear",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "684417989440",
+        "manufacturer": "Coastal Clouds LLC",
+        "brand": "Coastal Clouds",
+        "product": "Iced Blood Orange Mango 3mg 60ml",
+        "changes": {
+          "Flavor": {
+            "before": "Blood Orange, Mango, Lemo",
+            "after": "Blood Orange, Mango, Lemon"
+          }
+        }
+      },
+      {
+        "identifier": "750253727819",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Peach Pear",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "750253729004",
+        "manufacturer": "MH Global LLc dba Streamline Vape Co. LLC",
+        "brand": "Khali Vapors",
+        "product": "Khali Vapors Devil's Punchbowl Ice",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLc dba Streamline Vape Co. LLC"
+          }
+        }
+      }
+    ]
+  }
+}
