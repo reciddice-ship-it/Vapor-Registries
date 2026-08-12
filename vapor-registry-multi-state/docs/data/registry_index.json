@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-11T11:02:46.822422+00:00",
+  "generated_at_utc": "2026-08-12T11:09:04.036437+00:00",
   "states": [
     {
       "state": "NC",
@@ -9,8 +9,21 @@
       "source_file_url": "https://files.nc.gov/dor/2026-08/ApprovedVaporProducts%2007.30.2026.csv?VersionId=57WnX0ucatn5vM7N3ta_E3G0Udkwwo82",
       "latest_csv_file": "data/nc/latest.csv",
       "latest_json_file": "data/nc/latest.json",
-      "latest_change_file": "data/nc/changes/2026-08-11.json",
+      "latest_change_file": "data/nc/changes/2026-08-12.json",
       "history": [
+        {
+          "date": "2026-08-12",
+          "file": "data/nc/changes/2026-08-12.json",
+          "row_count": 819,
+          "counts": {
+            "added": 0,
+            "removed": 0,
+            "changed": 0
+          },
+          "source_file_url": "https://files.nc.gov/dor/2026-08/ApprovedVaporProducts%2007.30.2026.csv?VersionId=57WnX0ucatn5vM7N3ta_E3G0Udkwwo82",
+          "source_page_last_modified": "08/03/2026",
+          "generated_at_utc": "2026-08-12T11:09:04.036437+00:00"
+        },
         {
           "date": "2026-08-11",
           "file": "data/nc/changes/2026-08-11.json",
@@ -944,8 +957,21 @@
       "source_file_url": "https://revenue.nebraska.gov/sites/default/files/doc/cig/cert_dir_ends_mfrs.xlsx",
       "latest_csv_file": "data/ne/latest.csv",
       "latest_json_file": "data/ne/latest.json",
-      "latest_change_file": "data/ne/changes/2026-08-11.json",
+      "latest_change_file": "data/ne/changes/2026-08-12.json",
       "history": [
+        {
+          "date": "2026-08-12",
+          "file": "data/ne/changes/2026-08-12.json",
+          "row_count": 3541,
+          "counts": {
+            "added": 0,
+            "removed": 0,
+            "changed": 0
+          },
+          "source_file_url": "https://revenue.nebraska.gov/sites/default/files/doc/cig/cert_dir_ends_mfrs.xlsx",
+          "source_page_last_modified": null,
+          "generated_at_utc": "2026-08-12T11:09:04.036437+00:00"
+        },
         {
           "date": "2026-08-11",
           "file": "data/ne/changes/2026-08-11.json",
