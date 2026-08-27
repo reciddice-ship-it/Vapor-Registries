@@ -6612,6 +6612,126 @@
     "Date Added to Directory":"2026-02-10"
   },
   {
+    "Legal Name":"Coastal Clouds LLC",
+    "DBA":"Coastal Clouds",
+    "Product Name":"Coastal Clouds - Blue Raspberry Chew 30ml 35mg",
+    "SKU":"SLTBRC-35",
+    "Package UPC":"791684120336",
+    "Units per Package":"1",
+    "mL per Unit":"30",
+    "Product Category":"E-liquid",
+    "Characterizing Flavor":"Fruits",
+    "Date Added to Directory":"2026-08-26"
+  },
+  {
+    "Legal Name":"Coastal Clouds LLC",
+    "DBA":"Coastal Clouds",
+    "Product Name":"Coastal Clouds - Blue Raspberry Chew 30ml 50mg",
+    "SKU":"SLTBRC-50",
+    "Package UPC":"791684120343",
+    "Units per Package":"1",
+    "mL per Unit":"30",
+    "Product Category":"E-liquid",
+    "Characterizing Flavor":"Fruits",
+    "Date Added to Directory":"2026-08-26"
+  },
+  {
+    "Legal Name":"Coastal Clouds LLC",
+    "DBA":"Coastal Clouds",
+    "Product Name":"Coastal Clouds - Red Cherry Chew 30ml 35mg",
+    "SKU":"SLTRCC-35",
+    "Package UPC":"791684120299",
+    "Units per Package":"1",
+    "mL per Unit":"30",
+    "Product Category":"E-liquid",
+    "Characterizing Flavor":"Fruits",
+    "Date Added to Directory":"2026-08-26"
+  },
+  {
+    "Legal Name":"Coastal Clouds LLC",
+    "DBA":"Coastal Clouds",
+    "Product Name":"Coastal Clouds - Red Cherry Chew 30ml 50mg",
+    "SKU":"SLTRCC-50",
+    "Package UPC":"791684120305",
+    "Units per Package":"1",
+    "mL per Unit":"30",
+    "Product Category":"E-liquid",
+    "Characterizing Flavor":"Fruits",
+    "Date Added to Directory":"2026-08-26"
+  },
+  {
+    "Legal Name":"Coastal Clouds LLC",
+    "DBA":"Coastal Clouds",
+    "Product Name":"Coastal Clouds - Strawberry Chew 30ml 35mg",
+    "SKU":"SLTSTC-35",
+    "Package UPC":"791684120374",
+    "Units per Package":"1",
+    "mL per Unit":"30",
+    "Product Category":"E-liquid",
+    "Characterizing Flavor":"Fruits",
+    "Date Added to Directory":"2026-08-26"
+  },
+  {
+    "Legal Name":"Coastal Clouds LLC",
+    "DBA":"Coastal Clouds",
+    "Product Name":"Coastal Clouds - Strawberry Chew 30ml 50mg",
+    "SKU":"SLTSTC-50",
+    "Package UPC":"791684120381",
+    "Units per Package":"1",
+    "mL per Unit":"30",
+    "Product Category":"E-liquid",
+    "Characterizing Flavor":"Fruits",
+    "Date Added to Directory":"2026-08-26"
+  },
+  {
+    "Legal Name":"Coastal Clouds LLC",
+    "DBA":"Coastal Clouds",
+    "Product Name":"Coastal Clouds - Watermelon Chew 30ml 35mg",
+    "SKU":"SLTWTC-35",
+    "Package UPC":"791684120350",
+    "Units per Package":"1",
+    "mL per Unit":"30",
+    "Product Category":"E-liquid",
+    "Characterizing Flavor":"Fruits",
+    "Date Added to Directory":"2026-08-26"
+  },
+  {
+    "Legal Name":"Coastal Clouds LLC",
+    "DBA":"Coastal Clouds",
+    "Product Name":"Coastal Clouds - Watermelon Chew 30ml 50mg",
+    "SKU":"SLTWTC-50",
+    "Package UPC":"791684120367",
+    "Units per Package":"1",
+    "mL per Unit":"30",
+    "Product Category":"E-liquid",
+    "Characterizing Flavor":"Fruits",
+    "Date Added to Directory":"2026-08-26"
+  },
+  {
+    "Legal Name":"Coastal Clouds LLC",
+    "DBA":"Coastal Clouds",
+    "Product Name":"Coastal Clouds - White Clouds Chew 30ml 35mg",
+    "SKU":"SLTWCC-35",
+    "Package UPC":"791684120312",
+    "Units per Package":"1",
+    "mL per Unit":"30",
+    "Product Category":"E-liquid",
+    "Characterizing Flavor":"Fruits",
+    "Date Added to Directory":"2026-08-26"
+  },
+  {
+    "Legal Name":"Coastal Clouds LLC",
+    "DBA":"Coastal Clouds",
+    "Product Name":"Coastal Clouds - White Clouds Chew 30ml 50mg",
+    "SKU":"SLTWCC-50",
+    "Package UPC":"791684120329",
+    "Units per Package":"1",
+    "mL per Unit":"30",
+    "Product Category":"E-liquid",
+    "Characterizing Flavor":"Fruits",
+    "Date Added to Directory":"2026-08-26"
+  },
+  {
     "Legal Name":"Corepack Solutions Inc.",
     "DBA":"Saltbae 50 and Corepack Solutions",
     "Product Name":"Saltbae50 Clear",
@@ -27235,7 +27355,7 @@
     "Package UPC":"840478506969",
     "Units per Package":"5",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"Blue Razz",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27247,7 +27367,7 @@
     "Package UPC":"840478506976",
     "Units per Package":"150",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"Blue Razz",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27259,7 +27379,7 @@
     "Package UPC":"840478506952",
     "Units per Package":"1",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"Blue Razz",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27271,7 +27391,7 @@
     "Package UPC":"840478507140",
     "Units per Package":"5",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"Blueberry Lemon",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27283,7 +27403,7 @@
     "Package UPC":"840478507157",
     "Units per Package":"150",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"Blueberry Lemon",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27295,7 +27415,7 @@
     "Package UPC":"840478507133",
     "Units per Package":"1",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"Blueberry Lemon",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27307,7 +27427,7 @@
     "Package UPC":"840478507027",
     "Units per Package":"5",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"Strawberry Chew",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27319,7 +27439,7 @@
     "Package UPC":"840478507034",
     "Units per Package":"150",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"Strawberry Chew",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27331,7 +27451,7 @@
     "Package UPC":"840478507010",
     "Units per Package":"1",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"Strawberry Chew",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27343,7 +27463,7 @@
     "Package UPC":"840478502886",
     "Units per Package":"5",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"Clear",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27355,7 +27475,7 @@
     "Package UPC":"840478502893",
     "Units per Package":"150",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"Clear",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27367,7 +27487,7 @@
     "Package UPC":"840478502879",
     "Units per Package":"1",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"Clear",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27379,7 +27499,7 @@
     "Package UPC":"840478507201",
     "Units per Package":"5",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"Bold Tobacco",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27391,7 +27511,7 @@
     "Package UPC":"840478507218",
     "Units per Package":"150",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"Bold Tobacco",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27403,7 +27523,7 @@
     "Package UPC":"840478507195",
     "Units per Package":"1",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"Bold Tobacco",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27415,7 +27535,7 @@
     "Package UPC":"840478507232",
     "Units per Package":"5",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"Rich Tobacco",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27427,7 +27547,7 @@
     "Package UPC":"840478507249",
     "Units per Package":"150",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"Rich Tobacco",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27439,7 +27559,7 @@
     "Package UPC":"840478507225",
     "Units per Package":"1",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"Rich Tobacco",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27451,7 +27571,7 @@
     "Package UPC":"840478506617",
     "Units per Package":"150",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"Cherry Bomb",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27463,7 +27583,7 @@
     "Package UPC":"840478506358",
     "Units per Package":"5",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"Cherry Bomb",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27475,7 +27595,7 @@
     "Package UPC":"840478506235",
     "Units per Package":"1",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"Cherry Bomb",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27487,7 +27607,7 @@
     "Package UPC":"840478506624",
     "Units per Package":"150",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"Meta Moon",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27499,7 +27619,7 @@
     "Package UPC":"840478506365",
     "Units per Package":"5",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"Meta Moon",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27511,7 +27631,7 @@
     "Package UPC":"840478506242",
     "Units per Package":"1",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"Meta Moon",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27523,7 +27643,7 @@
     "Package UPC":"840478506631",
     "Units per Package":"150",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"Mexico Mango",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27535,7 +27655,7 @@
     "Package UPC":"840478506372",
     "Units per Package":"5",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"Mexico Mango",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27547,7 +27667,7 @@
     "Package UPC":"840478506259",
     "Units per Package":"1",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"Mexico Mango",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27559,7 +27679,7 @@
     "Package UPC":"840478506648",
     "Units per Package":"150",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"Miami Mint",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27571,7 +27691,7 @@
     "Package UPC":"840478506389",
     "Units per Package":"5",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"Miami Mint",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27583,7 +27703,7 @@
     "Package UPC":"840478506266",
     "Units per Package":"1",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"Miami Mint",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27595,7 +27715,7 @@
     "Package UPC":"840478506655",
     "Units per Package":"150",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"Raspberry Limeade",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27607,7 +27727,7 @@
     "Package UPC":"840478506396",
     "Units per Package":"5",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"Raspberry Limeade",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27619,7 +27739,7 @@
     "Package UPC":"840478506273",
     "Units per Package":"1",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"Raspberry Limeade",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27631,7 +27751,7 @@
     "Package UPC":"840478506662",
     "Units per Package":"150",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"Sour Apple",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27643,7 +27763,7 @@
     "Package UPC":"840478506419",
     "Units per Package":"5",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"Sour Apple",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27655,7 +27775,7 @@
     "Package UPC":"840478506297",
     "Units per Package":"1",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"Sour Apple",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27667,7 +27787,7 @@
     "Package UPC":"840478506679",
     "Units per Package":"150",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"Sour Fab",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27679,7 +27799,7 @@
     "Package UPC":"840478506426",
     "Units per Package":"5",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"Sour Fab",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27691,7 +27811,7 @@
     "Package UPC":"840478506303",
     "Units per Package":"1",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"Sour Fab",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27703,7 +27823,7 @@
     "Package UPC":"840478506686",
     "Units per Package":"150",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"Strawberry Banana",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27715,7 +27835,7 @@
     "Package UPC":"840478506433",
     "Units per Package":"5",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"Strawberry Banana",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27727,7 +27847,7 @@
     "Package UPC":"840478506310",
     "Units per Package":"1",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"Strawberry Banana",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27739,7 +27859,7 @@
     "Package UPC":"840478506693",
     "Units per Package":"150",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"White Peach Raspberry",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27751,7 +27871,7 @@
     "Package UPC":"840478506440",
     "Units per Package":"5",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"White Peach Raspberry",
     "Date Added to Directory":"2026-06-30"
   },
@@ -27763,7 +27883,7 @@
     "Package UPC":"840478506327",
     "Units per Package":"1",
     "mL per Unit":"24",
-    "Product Category":"Disposable e-cigarette",
+    "Product Category":"Disposable e-cigarette device",
     "Characterizing Flavor":"White Peach Raspberry",
     "Date Added to Directory":"2026-06-30"
   },

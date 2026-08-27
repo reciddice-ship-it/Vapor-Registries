@@ -1,0 +1,713 @@
+{
+  "state": "NE",
+  "state_name": "Nebraska",
+  "generated_at_utc": "2026-08-27T20:28:16.748593+00:00",
+  "source_url": "https://revenue.nebraska.gov/businesses/cigarettes-other-tobacco-products",
+  "source_file_url": "https://revenue.nebraska.gov/sites/default/files/doc/cig/cert_dir_ends_mfrs.xlsx",
+  "source_content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "source_page_last_modified": null,
+  "row_count": 3551,
+  "columns": [
+    "Legal Name",
+    "DBA",
+    "Product Name",
+    "SKU",
+    "Package UPC",
+    "Units per Package",
+    "mL per Unit",
+    "Product Category",
+    "Characterizing Flavor",
+    "Date Added to Directory"
+  ],
+  "identity_columns_used": [
+    "Package UPC",
+    "SKU",
+    "Legal Name",
+    "Product Name"
+  ],
+  "display_columns": [
+    "Legal Name",
+    "DBA",
+    "Product Name",
+    "SKU",
+    "Package UPC",
+    "Units per Package",
+    "mL per Unit",
+    "Product Category",
+    "Characterizing Flavor",
+    "Date Added to Directory"
+  ],
+  "compared_to_snapshot": "2026-08-26.csv",
+  "counts": {
+    "added": 10,
+    "removed": 0,
+    "changed": 45
+  },
+  "changes": {
+    "added": [
+      {
+        "Legal Name": "Coastal Clouds LLC",
+        "DBA": "Coastal Clouds",
+        "Product Name": "Coastal Clouds - Watermelon Chew 30ml 50mg",
+        "SKU": "SLTWTC-50",
+        "Package UPC": "791684120367",
+        "Units per Package": "1",
+        "mL per Unit": "30",
+        "Product Category": "E-liquid",
+        "Characterizing Flavor": "Fruits",
+        "Date Added to Directory": "2026-08-26"
+      },
+      {
+        "Legal Name": "Coastal Clouds LLC",
+        "DBA": "Coastal Clouds",
+        "Product Name": "Coastal Clouds - Strawberry Chew 30ml 50mg",
+        "SKU": "SLTSTC-50",
+        "Package UPC": "791684120381",
+        "Units per Package": "1",
+        "mL per Unit": "30",
+        "Product Category": "E-liquid",
+        "Characterizing Flavor": "Fruits",
+        "Date Added to Directory": "2026-08-26"
+      },
+      {
+        "Legal Name": "Coastal Clouds LLC",
+        "DBA": "Coastal Clouds",
+        "Product Name": "Coastal Clouds - Blue Raspberry Chew 30ml 35mg",
+        "SKU": "SLTBRC-35",
+        "Package UPC": "791684120336",
+        "Units per Package": "1",
+        "mL per Unit": "30",
+        "Product Category": "E-liquid",
+        "Characterizing Flavor": "Fruits",
+        "Date Added to Directory": "2026-08-26"
+      },
+      {
+        "Legal Name": "Coastal Clouds LLC",
+        "DBA": "Coastal Clouds",
+        "Product Name": "Coastal Clouds - White Clouds Chew 30ml 35mg",
+        "SKU": "SLTWCC-35",
+        "Package UPC": "791684120312",
+        "Units per Package": "1",
+        "mL per Unit": "30",
+        "Product Category": "E-liquid",
+        "Characterizing Flavor": "Fruits",
+        "Date Added to Directory": "2026-08-26"
+      },
+      {
+        "Legal Name": "Coastal Clouds LLC",
+        "DBA": "Coastal Clouds",
+        "Product Name": "Coastal Clouds - Strawberry Chew 30ml 35mg",
+        "SKU": "SLTSTC-35",
+        "Package UPC": "791684120374",
+        "Units per Package": "1",
+        "mL per Unit": "30",
+        "Product Category": "E-liquid",
+        "Characterizing Flavor": "Fruits",
+        "Date Added to Directory": "2026-08-26"
+      },
+      {
+        "Legal Name": "Coastal Clouds LLC",
+        "DBA": "Coastal Clouds",
+        "Product Name": "Coastal Clouds - Red Cherry Chew 30ml 35mg",
+        "SKU": "SLTRCC-35",
+        "Package UPC": "791684120299",
+        "Units per Package": "1",
+        "mL per Unit": "30",
+        "Product Category": "E-liquid",
+        "Characterizing Flavor": "Fruits",
+        "Date Added to Directory": "2026-08-26"
+      },
+      {
+        "Legal Name": "Coastal Clouds LLC",
+        "DBA": "Coastal Clouds",
+        "Product Name": "Coastal Clouds - Red Cherry Chew 30ml 50mg",
+        "SKU": "SLTRCC-50",
+        "Package UPC": "791684120305",
+        "Units per Package": "1",
+        "mL per Unit": "30",
+        "Product Category": "E-liquid",
+        "Characterizing Flavor": "Fruits",
+        "Date Added to Directory": "2026-08-26"
+      },
+      {
+        "Legal Name": "Coastal Clouds LLC",
+        "DBA": "Coastal Clouds",
+        "Product Name": "Coastal Clouds - White Clouds Chew 30ml 50mg",
+        "SKU": "SLTWCC-50",
+        "Package UPC": "791684120329",
+        "Units per Package": "1",
+        "mL per Unit": "30",
+        "Product Category": "E-liquid",
+        "Characterizing Flavor": "Fruits",
+        "Date Added to Directory": "2026-08-26"
+      },
+      {
+        "Legal Name": "Coastal Clouds LLC",
+        "DBA": "Coastal Clouds",
+        "Product Name": "Coastal Clouds - Watermelon Chew 30ml 35mg",
+        "SKU": "SLTWTC-35",
+        "Package UPC": "791684120350",
+        "Units per Package": "1",
+        "mL per Unit": "30",
+        "Product Category": "E-liquid",
+        "Characterizing Flavor": "Fruits",
+        "Date Added to Directory": "2026-08-26"
+      },
+      {
+        "Legal Name": "Coastal Clouds LLC",
+        "DBA": "Coastal Clouds",
+        "Product Name": "Coastal Clouds - Blue Raspberry Chew 30ml 50mg",
+        "SKU": "SLTBRC-50",
+        "Package UPC": "791684120343",
+        "Units per Package": "1",
+        "mL per Unit": "30",
+        "Product Category": "E-liquid",
+        "Characterizing Flavor": "Fruits",
+        "Date Added to Directory": "2026-08-26"
+      }
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "identifier": "840478507195",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "Juice Head Flex Tobacco - Bold Tobacco 50mg Single Device",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478506259",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "JUICE HEAD iFlex- Mexico Mango 50mg Single Device",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478506273",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "JUICE HEAD iFlex- Raspberry Limeade 50mg Single Device",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478506327",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "JUICE HEAD iFlex - White Peach Raspberry 50mg Single Device",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478506693",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "JUICE HEAD iFlex - White Peach Raspberry 50mg 150ct Mastercase",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478506686",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "JUICE HEAD iFlex- Strawberry Banana 50mg 150ct Mastercase",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478507249",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "Juice Head Flex Tobacco - Rich Tobacco 50mg 150ct Mastercase",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478507140",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "Juice Head Flex Freeze - Blueberry Lemon 50mg 5ct Carton",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478506648",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "JUICE HEAD iFlex- Miami Mint 50mg 150ct Mastercase",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478506617",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "JUICE HEAD iFlex- Cherry Bomb 50mg 150ct Mastercase",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478506372",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "JUICE HEAD iFlex - Mexico Mango 50mg 5ct Carton",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478506976",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "Juice Head Flex Freeze - Blue Razz 50mg 150ct Mastercase",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478506310",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "JUICE HEAD iFlex - Strawberry Banana 50mg Single Device",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478506235",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "JUICE HEAD iFlex- Cherry Bomb 50mg Single Device",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478507218",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "Juice Head Flex Tobacco - Bold Tobacco 50mg 150ct Mastercase",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478502886",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "Juice Head Flex Clear - Clear 50mg 5ct Carton",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478506396",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "JUICE HEAD iFlex - Raspberry Limeade 50mg 5ct Carton",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478502879",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "Juice Head Flex Clear - Clear 50mg Single Device",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478506433",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "JUICE HEAD iFlex- Strawberry Banana 50mg 5ct Carton",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478506303",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "JUICE HEAD iFlex- Sour Fab 50mg Single Device",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478506631",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "JUICE HEAD iFlex- Mexico Mango 50mg 150ct Mastercase",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478507010",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "Juice Head Flex Freeze - Strawberry Chew 50mg Single Device",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478506365",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "JUICE HEAD iFlex- Meta Moon 50mg 5ct Carton",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478506662",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "JUICE HEAD iFlex - Sour Apple 50mg 150ct Mastercase",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478506297",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "JUICE HEAD iFlex - Sour Apple 50mg Single Device",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478506242",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "JUICE HEAD iFlex- Meta Moon 50mg Single Device",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478507034",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "Juice Head Flex Freeze - Strawberry Chew 50mg 150ct Mastercase",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478507133",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "Juice Head Flex Freeze - Blueberry Lemon 50mg Single Device",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478506624",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "JUICE HEAD iFlex- Meta Moon 50mg 150ct Mastercase",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478506679",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "JUICE HEAD iFlex - Sour Fab 50mg 150ct Mastercase",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478506389",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "JUICE HEAD iFlex- Miami Mint 50mg 5ct Carton",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478507232",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "Juice Head Flex Tobacco - Rich Tobacco 50mg 5ct Carton",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478507225",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "Juice Head Flex Tobacco - Rich Tobacco 50mg Single Device",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478507027",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "Juice Head Flex Freeze - Strawberry Chew 50mg 5ct Carton",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478506655",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "JUICE HEAD iFlex- Raspberry Limeade 50mg 150ct Mastercase",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478506358",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "JUICE HEAD iFlex- Cherry Bomb 50mg 5ct Carton",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478506426",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "JUICE HEAD iFlex - Sour Fab 50mg 5ct Carton",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478506952",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "Juice Head Flex Freeze - Blue Razz 50mg Single Device",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478502893",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "Juice Head Flex Clear - Clear 50mg 150ct Mastercase",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478507201",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "Juice Head Flex Tobacco - Bold Tobacco 50mg 5ct Carton",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478507157",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "Juice Head Flex Freeze - Blueberry Lemon 50mg 150ct Mastercase",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478506419",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "JUICE HEAD iFlex - Sour Apple 50mg 5ct Carton",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478506440",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "JUICE HEAD iFlex - White Peach Raspberry 50mg 5ct Carton",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478506969",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "Juice Head Flex Freeze - Blue Razz 50mg 5ct Carton",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      },
+      {
+        "identifier": "840478506266",
+        "manufacturer": "MH Global LLC",
+        "brand": "Streamline Vape Co. LLC",
+        "product": "JUICE HEAD iFlex- Miami Mint 50mg Single Device",
+        "changes": {
+          "Product Category": {
+            "before": "Disposable e-cigarette",
+            "after": "Disposable e-cigarette device"
+          }
+        }
+      }
+    ]
+  }
+}
