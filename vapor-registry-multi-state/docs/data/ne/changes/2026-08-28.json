@@ -1,0 +1,172 @@
+{
+  "state": "NE",
+  "state_name": "Nebraska",
+  "generated_at_utc": "2026-08-28T21:10:53.089507+00:00",
+  "source_url": "https://revenue.nebraska.gov/businesses/cigarettes-other-tobacco-products",
+  "source_file_url": "https://revenue.nebraska.gov/sites/default/files/doc/cig/cert_dir_ends_mfrs.xlsx",
+  "source_content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "source_page_last_modified": null,
+  "row_count": 3561,
+  "columns": [
+    "Legal Name",
+    "DBA",
+    "Product Name",
+    "SKU",
+    "Package UPC",
+    "Units per Package",
+    "mL per Unit",
+    "Product Category",
+    "Characterizing Flavor",
+    "Date Added to Directory"
+  ],
+  "identity_columns_used": [
+    "Package UPC",
+    "SKU",
+    "Legal Name",
+    "Product Name"
+  ],
+  "display_columns": [
+    "Legal Name",
+    "DBA",
+    "Product Name",
+    "SKU",
+    "Package UPC",
+    "Units per Package",
+    "mL per Unit",
+    "Product Category",
+    "Characterizing Flavor",
+    "Date Added to Directory"
+  ],
+  "compared_to_snapshot": "2026-08-27.csv",
+  "counts": {
+    "added": 10,
+    "removed": 0,
+    "changed": 0
+  },
+  "changes": {
+    "added": [
+      {
+        "Legal Name": "Lazarus Adventures LLC",
+        "DBA": "Lazarus Adventures LLC",
+        "Product Name": "Czar 1440 mg tube",
+        "SKU": "CZAR1440MGTUBE",
+        "Package UPC": "199457098217",
+        "Units per Package": "1",
+        "mL per Unit": "3.6",
+        "Product Category": "Other",
+        "Characterizing Flavor": "",
+        "Date Added to Directory": "2026-08-27"
+      },
+      {
+        "Legal Name": "Lazarus Adventures LLC",
+        "DBA": "Lazarus Adventures LLC",
+        "Product Name": "Czar 360 mg tube",
+        "SKU": "CZAR360MGTUBE",
+        "Package UPC": "199770805554",
+        "Units per Package": "1",
+        "mL per Unit": "0.9",
+        "Product Category": "Other",
+        "Characterizing Flavor": "",
+        "Date Added to Directory": "2026-08-27"
+      },
+      {
+        "Legal Name": "Lazarus Adventures LLC",
+        "DBA": "Lazarus Adventures LLC",
+        "Product Name": "Czar 45 mg tube",
+        "SKU": "CZAR45MGTUBE",
+        "Package UPC": "199770801112",
+        "Units per Package": "1",
+        "mL per Unit": "0.9",
+        "Product Category": "Other",
+        "Characterizing Flavor": "",
+        "Date Added to Directory": "2026-08-27"
+      },
+      {
+        "Legal Name": "Lazarus Adventures LLC",
+        "DBA": "Lazarus Adventures LLC",
+        "Product Name": "Czar 540 mg tube",
+        "SKU": "CZAR540MGTUBE",
+        "Package UPC": "199770806667",
+        "Units per Package": "1",
+        "mL per Unit": "1.8",
+        "Product Category": "Other",
+        "Characterizing Flavor": "",
+        "Date Added to Directory": "2026-08-27"
+      },
+      {
+        "Legal Name": "Lazarus Adventures LLC",
+        "DBA": "Lazarus Adventures LLC",
+        "Product Name": "Czar 90 mg tube",
+        "SKU": "CZAR90MGTUBE",
+        "Package UPC": "199770802225",
+        "Units per Package": "1",
+        "mL per Unit": "0.9",
+        "Product Category": "Other",
+        "Characterizing Flavor": "",
+        "Date Added to Directory": "2026-08-27"
+      },
+      {
+        "Legal Name": "Lazarus Adventures LLC",
+        "DBA": "Lazarus Adventures LLC",
+        "Product Name": "Czar 270 mg tube",
+        "SKU": "CZAR270MGTUBE",
+        "Package UPC": "199770804441",
+        "Units per Package": "1",
+        "mL per Unit": "0.9",
+        "Product Category": "Other",
+        "Characterizing Flavor": "",
+        "Date Added to Directory": "2026-08-27"
+      },
+      {
+        "Legal Name": "Lazarus Adventures LLC",
+        "DBA": "Lazarus Adventures LLC",
+        "Product Name": "Czar 750 mg Salt tube",
+        "SKU": "CZAR750MGTUBE",
+        "Package UPC": "199770808883",
+        "Units per Package": "1",
+        "mL per Unit": "1.85",
+        "Product Category": "Other",
+        "Characterizing Flavor": "",
+        "Date Added to Directory": "2026-08-27"
+      },
+      {
+        "Legal Name": "Lazarus Adventures LLC",
+        "DBA": "Lazarus Adventures LLC",
+        "Product Name": "Czar 1500 mg Salt Tube",
+        "SKU": "CZAR1500MGTUBE",
+        "Package UPC": "199770809996",
+        "Units per Package": "1",
+        "mL per Unit": "3.75",
+        "Product Category": "Other",
+        "Characterizing Flavor": "",
+        "Date Added to Directory": "2026-08-27"
+      },
+      {
+        "Legal Name": "Lazarus Adventures LLC",
+        "DBA": "Lazarus Adventures LLC",
+        "Product Name": "Czar 720 mg tube",
+        "SKU": "CZAR720MGTUBE",
+        "Package UPC": "199770807770",
+        "Units per Package": "1",
+        "mL per Unit": "1.8",
+        "Product Category": "Other",
+        "Characterizing Flavor": "",
+        "Date Added to Directory": "2026-08-27"
+      },
+      {
+        "Legal Name": "Lazarus Adventures LLC",
+        "DBA": "Lazarus Adventures LLC",
+        "Product Name": "Czar 180 mg tube",
+        "SKU": "CZAR180MGTUBE",
+        "Package UPC": "199770803338",
+        "Units per Package": "1",
+        "mL per Unit": "0.9",
+        "Product Category": "Other",
+        "Characterizing Flavor": "",
+        "Date Added to Directory": "2026-08-27"
+      }
+    ],
+    "removed": [],
+    "changed": []
+  }
+}
