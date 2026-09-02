@@ -1,0 +1,1407 @@
+{
+  "state": "NC",
+  "state_name": "North Carolina",
+  "generated_at_utc": "2026-09-02T14:27:00.172320+00:00",
+  "source_url": "https://www.ncdor.gov/taxes-forms/other-taxes-and-fees/vapor-product-and-consumable-product-certification-and-directory/vapor-certification-directory",
+  "source_file_url": "https://files.nc.gov/dor/2026-09/ApprovedVaporProducts%2008.26.2026.csv?VersionId=LIwY.Y5JD2iF4hQVxjt0XEK7HnCC_WEa",
+  "source_content_type": "text/csv",
+  "source_page_last_modified": "09/01/2026",
+  "row_count": 818,
+  "columns": [
+    "Stock Keeping Unit (SKU)",
+    "Manufacturer",
+    "Brand Name",
+    "Product Name",
+    "Category",
+    "Flavor",
+    "Date Added to Directory"
+  ],
+  "identity_columns_used": [
+    "Manufacturer",
+    "Brand Name",
+    "Product Name"
+  ],
+  "display_columns": [
+    "Manufacturer",
+    "Brand Name",
+    "Product Name",
+    "Category",
+    "Flavor",
+    "Date Added to Directory"
+  ],
+  "compared_to_snapshot": "2026-09-01.csv",
+  "counts": {
+    "added": 4,
+    "removed": 5,
+    "changed": 106
+  },
+  "changes": {
+    "added": [
+      {
+        "Stock Keeping Unit (SKU)": "810029040730",
+        "Manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "Brand Name": "Vapetasia",
+        "Product Name": "Vapetasia Killer Kustard Lemon 100ml 3mg",
+        "Category": "E-liquid",
+        "Flavor": "Vanilla Lemon & Custard",
+        "Date Added to Directory": "05/29/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "887969011397",
+        "Manufacturer": "Fontem US LLC",
+        "Brand Name": "Blu",
+        "Product Name": "Blu Device – Limited Edition Midnight Blue",
+        "Category": "Device",
+        "Flavor": "N/A",
+        "Date Added to Directory": "05/01/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "887969010567",
+        "Manufacturer": "Fontem US LLC",
+        "Brand Name": "Myblu",
+        "Product Name": "Myblu Menthol 2.4%",
+        "Category": "E-liquid Pod",
+        "Flavor": "Menthol",
+        "Date Added to Directory": "05/01/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "887969004887",
+        "Manufacturer": "Fontem US LLC",
+        "Brand Name": "Blu Plus",
+        "Product Name": "Blu Plus+ Tanks Classic Tobacco 2.4%",
+        "Category": "E-liquid Cartridge",
+        "Flavor": "Tobacco",
+        "Date Added to Directory": "05/01/2025"
+      }
+    ],
+    "removed": [
+      {
+        "Unique Product Identifier (UPC or SKU)": "900212120",
+        "Manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "Brand Name": "Cold Fusion",
+        "Product Name": "Cold Fusion Hiss Tank 120ml 12mg",
+        "Category": "E-liquid",
+        "Flavor": "Raspberry & Dragon Fruit",
+        "Date Added to Directory": "05/29/2025"
+      },
+      {
+        "Unique Product Identifier (UPC or SKU)": "887969004887",
+        "Manufacturer": "Fontem US LLC",
+        "Brand Name": "Blu Plus",
+        "Product Name": "Blu Plus+ Tanks Classic Tobacco2.4%",
+        "Category": "E-liquid Cartridge",
+        "Flavor": "Tobacco",
+        "Date Added to Directory": "05/01/2025"
+      },
+      {
+        "Unique Product Identifier (UPC or SKU)": "810029040730",
+        "Manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "Brand Name": "Vapetasia",
+        "Product Name": "Vapetasia Killer KustardLemon 100ml 3mg",
+        "Category": "E-liquid",
+        "Flavor": "Vanilla Lemon & Custard",
+        "Date Added to Directory": "05/29/2025"
+      },
+      {
+        "Unique Product Identifier (UPC or SKU)": "887969010567",
+        "Manufacturer": "Fontem US LLC",
+        "Brand Name": "Myblu",
+        "Product Name": "Myblu Menthol2.4%",
+        "Category": "E-liquid Pod",
+        "Flavor": "Menthol",
+        "Date Added to Directory": "05/01/2025"
+      },
+      {
+        "Unique Product Identifier (UPC or SKU)": "887969011397",
+        "Manufacturer": "Fontem US LLC",
+        "Brand Name": "Blu",
+        "Product Name": "Blu Device –Limited Edition Midnight Blue",
+        "Category": "Device",
+        "Flavor": "N/A",
+        "Date Added to Directory": "05/01/2025"
+      }
+    ],
+    "changed": [
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Derailed 60ml 12mg",
+        "changes": {
+          "Date Added to Directory": {
+            "before": "05/20/2026",
+            "after": "05/29/2025"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Derailed 60ml 12mg",
+        "changes": {
+          "Date Added to Directory": {
+            "before": "05/29/2025",
+            "after": "05/20/2026"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Maduro Distributors Inc dba The Loon",
+        "brand": "Loon",
+        "product": "Loon Air+",
+        "changes": {
+          "Flavor": {
+            "before": "Mint",
+            "after": "Berry Lemonade"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Maduro Distributors Inc dba The Loon",
+        "brand": "Loon",
+        "product": "Loon Air+",
+        "changes": {
+          "Flavor": {
+            "before": "Pineapple Ice",
+            "after": "Grape"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Maduro Distributors Inc dba The Loon",
+        "brand": "Loon",
+        "product": "Loon Air+",
+        "changes": {
+          "Flavor": {
+            "before": "Grape",
+            "after": "Mango Ice"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Maduro Distributors Inc dba The Loon",
+        "brand": "Loon",
+        "product": "Loon Air+",
+        "changes": {
+          "Flavor": {
+            "before": "Strawberry Ice",
+            "after": "Lush Ice"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Maduro Distributors Inc dba The Loon",
+        "brand": "Loon",
+        "product": "Loon Air+",
+        "changes": {
+          "Flavor": {
+            "before": "Strawberry Watermelon",
+            "after": "Mint"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Maduro Distributors Inc dba The Loon",
+        "brand": "Loon",
+        "product": "Loon Air+",
+        "changes": {
+          "Flavor": {
+            "before": "Bad Bull",
+            "after": "Raspberry Blueberry Lemon"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Maduro Distributors Inc dba The Loon",
+        "brand": "Loon",
+        "product": "Loon Air+",
+        "changes": {
+          "Flavor": {
+            "before": "Lush Ice",
+            "after": "Strawberry Ice"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Maduro Distributors Inc dba The Loon",
+        "brand": "Loon",
+        "product": "Loon Air+",
+        "changes": {
+          "Flavor": {
+            "before": "Berry Lemonade",
+            "after": "Pineapple Ice"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Maduro Distributors Inc dba The Loon",
+        "brand": "Loon",
+        "product": "Loon Air+",
+        "changes": {
+          "Flavor": {
+            "before": "Raspberry Blueberry Lemon",
+            "after": "Strawberry Watermelon"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Maduro Distributors Inc dba The Loon",
+        "brand": "Loon",
+        "product": "Loon Air+",
+        "changes": {
+          "Flavor": {
+            "before": "Mango Ice",
+            "after": "Bad Bull"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Strawberry Kiwi Salts",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Strawberry Kiwi Salts",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Raspberry French 60ml 18mg",
+        "changes": {
+          "Flavor": {
+            "before": "Cream Raspberry Mixedberry",
+            "after": "Cream Raspberry Mixed Berry"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Pineapple Grapefruit",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Pineapple Grapefruit",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Galil 60ml 6mg",
+        "changes": {
+          "Flavor": {
+            "before": "Creme Brulee & Hazelnut",
+            "after": "Creme Burlee & Hazelnut"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Mothers Milk 60ml 3mg",
+        "changes": {
+          "Date Added to Directory": {
+            "before": "05/21/2026",
+            "after": "05/29/2025"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Mothers Milk 60ml 3mg",
+        "changes": {
+          "Date Added to Directory": {
+            "before": "05/29/2025",
+            "after": "05/21/2026"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Khali Vapors",
+        "product": "Khali Vapors Devil's Punchbowl Ice Salts",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Khali Vapors",
+        "product": "Khali Vapors Devil's Punchbowl Ice Salts",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Bam's Cannoli",
+        "product": "Bam's Cannoli Original",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Bam's Cannoli",
+        "product": "Bam's Cannoli Original",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Madrina 60ml 6mg",
+        "changes": {
+          "Date Added to Directory": {
+            "before": "05/21/2026",
+            "after": "05/29/2025"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Madrina 60ml 6mg",
+        "changes": {
+          "Date Added to Directory": {
+            "before": "05/29/2025",
+            "after": "05/21/2026"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Guava Peach",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Guava Peach",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Watermelon Lime Salt",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Watermelon Lime Salt",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Galil 120ml 3mg",
+        "changes": {
+          "Flavor": {
+            "before": "Creme Brulee & Hazelnut",
+            "after": "Creme Burlee & Hazelnut"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Claim Your Throne 60ml 3mg",
+        "changes": {
+          "Flavor": {
+            "before": "Sweet Cream & Butterscotch",
+            "after": "Sweet Cream & Butter Scotch"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Madrina 60ml 12mg",
+        "changes": {
+          "Date Added to Directory": {
+            "before": "05/21/2026",
+            "after": "05/29/2025"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Madrina 60ml 12mg",
+        "changes": {
+          "Date Added to Directory": {
+            "before": "05/29/2025",
+            "after": "05/21/2026"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Blueberry Lemon",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Blueberry Lemon",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Juul Labs, Inc.",
+        "brand": "Juul",
+        "product": "Juul Device & Juulpods V. Tob. - 5% Special 2-pk",
+        "changes": {
+          "Date Added to Directory": {
+            "before": "05/01/2025",
+            "after": "07/31/2025"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Juul Labs, Inc.",
+        "brand": "Juul",
+        "product": "Juul Device & Juulpods V. Tob. - 5% Special 2-pk",
+        "changes": {
+          "Date Added to Directory": {
+            "before": "07/31/2025",
+            "after": "05/01/2025"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Claim Your Throne 120ml 6mg",
+        "changes": {
+          "Flavor": {
+            "before": "Sweet Cream & Butterscotch",
+            "after": "Sweet Cream & Butter Scotch"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Madrina 120ml 12mg",
+        "changes": {
+          "Date Added to Directory": {
+            "before": "05/21/2026",
+            "after": "05/29/2025"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Madrina 120ml 12mg",
+        "changes": {
+          "Date Added to Directory": {
+            "before": "05/29/2025",
+            "after": "05/21/2026"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Claim Your Throne 60ml 6mg",
+        "changes": {
+          "Flavor": {
+            "before": "Sweet Cream & Butterscotch",
+            "after": "Sweet Cream & Butter Scotch"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Raspberry French 60ml 12mg",
+        "changes": {
+          "Flavor": {
+            "before": "Cream Raspberry Mixedberry",
+            "after": "Cream Raspberry Mixed Berry"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Bam's Cannoli",
+        "product": "Bam's Cannoli Birthday",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Bam's Cannoli",
+        "product": "Bam's Cannoli Birthday",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Mothers Milk 60ml 12mg",
+        "changes": {
+          "Date Added to Directory": {
+            "before": "05/21/2026",
+            "after": "05/29/2025"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Mothers Milk 60ml 12mg",
+        "changes": {
+          "Date Added to Directory": {
+            "before": "05/29/2025",
+            "after": "05/21/2026"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Galil 60ml 3mg",
+        "changes": {
+          "Flavor": {
+            "before": "Creme Brulee & Hazelnut",
+            "after": "Creme Burlee & Hazelnut"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Watermelon Lime",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Watermelon Lime",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Blueberry Lemon Salt",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Blueberry Lemon Salt",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Pineapple Grapefruit Salt",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Pineapple Grapefruit Salt",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Claim Your Throne 120ml 12mg",
+        "changes": {
+          "Flavor": {
+            "before": "Sweet Cream & Butterscotch",
+            "after": "Sweet Cream & Butter Scotch"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Blueberry Lemon Freeze",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Blueberry Lemon Freeze",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Raspberry French 120ml 12mg",
+        "changes": {
+          "Flavor": {
+            "before": "Cream Raspberry Mixedberry",
+            "after": "Cream Raspberry Mixed Berry"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Galil 120ml 12mg",
+        "changes": {
+          "Flavor": {
+            "before": "Creme Brulee & Hazelnut",
+            "after": "Creme Burlee & Hazelnut"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Claim Your Throne 120ml 1.5mg",
+        "changes": {
+          "Flavor": {
+            "before": "Sweet Cream & Butterscotch",
+            "after": "Sweet Cream & Butter Scotch"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Breeze Smoke Llc",
+        "brand": "Breeze Smoke",
+        "product": "Breeze Smoke Disposable Pod Ends Tobacco",
+        "changes": {
+          "Manufacturer": {
+            "before": "Breeze Smoke LLC",
+            "after": "Breeze Smoke Llc"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Strawberry Kiwi",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Strawberry Kiwi",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Peach Pear Salt",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Peach Pear Salt",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Strawberry Kiwi Freeze",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Strawberry Kiwi Freeze",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Custom Technologies LLC",
+        "brand": "Ecig 4 Inmate",
+        "product": "Ecig 4 Inmate",
+        "changes": {
+          "Flavor": {
+            "before": "Tobacco",
+            "after": "Mixed Berry"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Custom Technologies LLC",
+        "brand": "Ecig 4 Inmate",
+        "product": "Ecig 4 Inmate",
+        "changes": {
+          "Flavor": {
+            "before": "Mixed Berry",
+            "after": "Ice Peach"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Custom Technologies LLC",
+        "brand": "Ecig 4 Inmate",
+        "product": "Ecig 4 Inmate",
+        "changes": {
+          "Flavor": {
+            "before": "Peach",
+            "after": "Tobacco"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Custom Technologies LLC",
+        "brand": "Ecig 4 Inmate",
+        "product": "Ecig 4 Inmate",
+        "changes": {
+          "Flavor": {
+            "before": "Ice Peach",
+            "after": "Peach"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Juul Labs, Inc.",
+        "brand": "Juul",
+        "product": "Juul Device & Juulpods Menthol - 5% Special 2-pk",
+        "changes": {
+          "Date Added to Directory": {
+            "before": "05/01/2025",
+            "after": "07/31/2025"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Juul Labs, Inc.",
+        "brand": "Juul",
+        "product": "Juul Device & Juulpods Menthol - 5% Special 2-pk",
+        "changes": {
+          "Date Added to Directory": {
+            "before": "07/31/2025",
+            "after": "05/01/2025"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Galil 60ml 12mg",
+        "changes": {
+          "Flavor": {
+            "before": "Creme Brulee & Hazelnut",
+            "after": "Creme Burlee & Hazelnut"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Guava Peach Salt",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Guava Peach Salt",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Bam's Cannoli",
+        "product": "Bam's Cannoli Captain",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Bam's Cannoli",
+        "product": "Bam's Cannoli Captain",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Peach Pear",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Peach Pear",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Raspberry French 60ml 3mg",
+        "changes": {
+          "Flavor": {
+            "before": "Cream Raspberry Mixedberry",
+            "after": "Cream Raspberry Mixed Berry"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Madrina 60ml 3mg",
+        "changes": {
+          "Date Added to Directory": {
+            "before": "05/21/2026",
+            "after": "05/29/2025"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Madrina 60ml 3mg",
+        "changes": {
+          "Date Added to Directory": {
+            "before": "05/29/2025",
+            "after": "05/21/2026"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Mothers Milk 60ml 6mg",
+        "changes": {
+          "Date Added to Directory": {
+            "before": "05/21/2026",
+            "after": "05/29/2025"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Mothers Milk 60ml 6mg",
+        "changes": {
+          "Date Added to Directory": {
+            "before": "05/29/2025",
+            "after": "05/21/2026"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Maduro Distributors Inc dba The Loon",
+        "brand": "Loon",
+        "product": "Loon Air Maxx",
+        "changes": {
+          "Flavor": {
+            "before": "Frozen Melon",
+            "after": "Blue Raspberry (blue Razz"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Maduro Distributors Inc dba The Loon",
+        "brand": "Loon",
+        "product": "Loon Air Maxx",
+        "changes": {
+          "Flavor": {
+            "before": "Kiwi Berry (bowzer Berry)",
+            "after": "Frozen Mango"
+          },
+          "Date Added to Directory": {
+            "before": "05/01/2025",
+            "after": "05/15/2025"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Maduro Distributors Inc dba The Loon",
+        "brand": "Loon",
+        "product": "Loon Air Maxx",
+        "changes": {
+          "Flavor": {
+            "before": "Blue Raspberry (blue Razz)",
+            "after": "Grape"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Maduro Distributors Inc dba The Loon",
+        "brand": "Loon",
+        "product": "Loon Air Maxx",
+        "changes": {
+          "Flavor": {
+            "before": "Grape",
+            "after": "Frozen Melon"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Maduro Distributors Inc dba The Loon",
+        "brand": "Loon",
+        "product": "Loon Air Maxx",
+        "changes": {
+          "Flavor": {
+            "before": "Frozen Mango",
+            "after": "Kiwi Berry (bowzer Berry)"
+          },
+          "Date Added to Directory": {
+            "before": "05/15/2025",
+            "after": "05/01/2025"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Raspberry French 60ml 6mg",
+        "changes": {
+          "Flavor": {
+            "before": "Cream Raspberry Mixedberry",
+            "after": "Cream Raspberry Mixed Berry"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Claim Your Throne 60ml 1.5mg",
+        "changes": {
+          "Flavor": {
+            "before": "Sweet Cream & Butterscotch",
+            "after": "Sweet Cream & Butter Scotch"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Galil 120ml 6mg",
+        "changes": {
+          "Flavor": {
+            "before": "Creme Brulee & Hazelnut",
+            "after": "Creme Burlee & Hazelnut"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Claim Your Throne 60ml 12mg",
+        "changes": {
+          "Flavor": {
+            "before": "Sweet Cream & Butterscotch",
+            "after": "Sweet Cream & Butter Scotch"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Peach Pear Freeze",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Peach Pear Freeze",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Claim Your Throne 60ml 18mg",
+        "changes": {
+          "Flavor": {
+            "before": "Sweet Cream & Butterscotch",
+            "after": "Sweet Cream & Butter Scotch"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Galil 60ml 18mg",
+        "changes": {
+          "Flavor": {
+            "before": "Creme Brulee & Hazelnut",
+            "after": "Creme Burlee & Hazelnut"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Khali Vapors",
+        "product": "Khali Vapors Devil's Punchbowl",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Khali Vapors",
+        "product": "Khali Vapors Devil's Punchbowl",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Raspberry French 120ml 6mg",
+        "changes": {
+          "Flavor": {
+            "before": "Cream Raspberry Mixedberry",
+            "after": "Cream Raspberry Mixed Berry"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Bam's Cannoli",
+        "product": "Bam's Cannoli Strawberry",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Bam's Cannoli",
+        "product": "Bam's Cannoli Strawberry",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Claim Your Throne 120ml 3mg",
+        "changes": {
+          "Flavor": {
+            "before": "Sweet Cream & Butterscotch",
+            "after": "Sweet Cream & Butter Scotch"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Khali Vapors",
+        "product": "Khali Vapors Devil's Punchbowl Ice",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC dba Streamline Vape Co. LLC",
+        "brand": "Khali Vapors",
+        "product": "Khali Vapors Devil's Punchbowl Ice",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLc dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC dba Streamline Vape Co. LLC"
+          }
+        }
+      }
+    ]
+  }
+}
