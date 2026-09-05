@@ -1,0 +1,161 @@
+{
+  "state": "NE",
+  "state_name": "Nebraska",
+  "generated_at_utc": "2026-09-05T13:26:38.982380+00:00",
+  "source_url": "https://revenue.nebraska.gov/businesses/cigarettes-other-tobacco-products",
+  "source_file_url": "https://revenue.nebraska.gov/sites/default/files/doc/cig/cert_dir_ends_mfrs.xlsx",
+  "source_content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "source_page_last_modified": null,
+  "row_count": 3566,
+  "columns": [
+    "Legal Name",
+    "DBA",
+    "Product Name",
+    "SKU",
+    "Package UPC",
+    "Units per Package",
+    "mL per Unit",
+    "Product Category",
+    "Characterizing Flavor",
+    "Date Added to Directory"
+  ],
+  "identity_columns_used": [
+    "Package UPC",
+    "SKU",
+    "Legal Name",
+    "Product Name"
+  ],
+  "display_columns": [
+    "Legal Name",
+    "DBA",
+    "Product Name",
+    "SKU",
+    "Package UPC",
+    "Units per Package",
+    "mL per Unit",
+    "Product Category",
+    "Characterizing Flavor",
+    "Date Added to Directory"
+  ],
+  "compared_to_snapshot": "2026-09-04.csv",
+  "counts": {
+    "added": 7,
+    "removed": 2,
+    "changed": 0
+  },
+  "changes": {
+    "added": [
+      {
+        "Legal Name": "7 Daze LLC",
+        "DBA": "7 Daze LLC",
+        "Product Name": "Rinn Bar - Blue Refresher",
+        "SKU": "Rinn Bar - Blue Refresher",
+        "Package UPC": "729859470719",
+        "Units per Package": "1",
+        "mL per Unit": "18",
+        "Product Category": "Disposable e-cigarette device",
+        "Characterizing Flavor": "Blueberry",
+        "Date Added to Directory": "2026-09-04"
+      },
+      {
+        "Legal Name": "7 Daze LLC",
+        "DBA": "7 Daze LLC",
+        "Product Name": "NT Fusion Watermelon Apple Pear ICED - 100ml - 3mg/ml",
+        "SKU": "NT Fusion Watermelon Apple Pear ICED - 100ml - 3mg/ml",
+        "Package UPC": "783970204547",
+        "Units per Package": "1",
+        "mL per Unit": "100",
+        "Product Category": "E-liquid",
+        "Characterizing Flavor": "Watermelon",
+        "Date Added to Directory": "2026-09-04"
+      },
+      {
+        "Legal Name": "7 Daze LLC",
+        "DBA": "7 Daze LLC",
+        "Product Name": "Rinn Bar - Lemon Refresher",
+        "SKU": "Rinn Bar - Lemon Refresher",
+        "Package UPC": "729859470696",
+        "Units per Package": "1",
+        "mL per Unit": "18",
+        "Product Category": "Disposable e-cigarette device",
+        "Characterizing Flavor": "Lemon",
+        "Date Added to Directory": "2026-09-04"
+      },
+      {
+        "Legal Name": "7 Daze LLC",
+        "DBA": "7 Daze LLC",
+        "Product Name": "Rinn Bar - Maui Punch Refresher",
+        "SKU": "Rinn Bar - Maui Punch Refresher",
+        "Package UPC": "729859470726",
+        "Units per Package": "1",
+        "mL per Unit": "18",
+        "Product Category": "Disposable e-cigarette device",
+        "Characterizing Flavor": "Pineapple",
+        "Date Added to Directory": "2026-09-04"
+      },
+      {
+        "Legal Name": "7 Daze LLC",
+        "DBA": "7 Daze LLC",
+        "Product Name": "Rinn Bar - Baja Refresher",
+        "SKU": "Rinn Bar - Baja Refresher",
+        "Package UPC": "729859470702",
+        "Units per Package": "1",
+        "mL per Unit": "18",
+        "Product Category": "Disposable e-cigarette device",
+        "Characterizing Flavor": "Lime",
+        "Date Added to Directory": "2026-09-04"
+      },
+      {
+        "Legal Name": "7 Daze LLC",
+        "DBA": "7 Daze LLC",
+        "Product Name": "Rinn Bar - Mango Refresher",
+        "SKU": "Rinn Bar - Mango Refresher",
+        "Package UPC": "729859470689",
+        "Units per Package": "1",
+        "mL per Unit": "18",
+        "Product Category": "Disposable e-cigarette device",
+        "Characterizing Flavor": "Mango",
+        "Date Added to Directory": "2026-09-04"
+      },
+      {
+        "Legal Name": "7 Daze LLC",
+        "DBA": "7 Daze LLC",
+        "Product Name": "NT Fusion Watermelon Apple Pear ICED - 100ml - 6mg/ml",
+        "SKU": "NT Fusion Watermelon Apple Pear ICED - 100ml - 6mg/ml",
+        "Package UPC": "783970204554",
+        "Units per Package": "1",
+        "mL per Unit": "100",
+        "Product Category": "E-liquid",
+        "Characterizing Flavor": "Watermelon",
+        "Date Added to Directory": "2026-09-04"
+      }
+    ],
+    "removed": [
+      {
+        "Legal Name": "7 Daze LLC",
+        "DBA": "7 Daze LLC",
+        "Product Name": "NT Fusion Watermelon Apple Pear - 100ml - 6mg/ml",
+        "SKU": "NT Fusion Watermelon Apple Pear - 100ml - 6mg/ml",
+        "Package UPC": "783970203601",
+        "Units per Package": "1",
+        "mL per Unit": "100",
+        "Product Category": "E-liquid",
+        "Characterizing Flavor": "Watermelon",
+        "Date Added to Directory": "2025-12-18"
+      },
+      {
+        "Legal Name": "7 Daze LLC",
+        "DBA": "7 Daze LLC",
+        "Product Name": "NT Fusion Watermelon Apple Pear - 100ml - 3mg/ml",
+        "SKU": "NT Fusion Watermelon Apple Pear - 100ml - 3mg/ml",
+        "Package UPC": "783970203595",
+        "Units per Package": "1",
+        "mL per Unit": "100",
+        "Product Category": "E-liquid",
+        "Characterizing Flavor": "Watermelon",
+        "Date Added to Directory": "2025-12-18"
+      }
+    ],
+    "changed": []
+  }
+}
