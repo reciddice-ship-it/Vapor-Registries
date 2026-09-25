@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-24T15:02:19.373848+00:00",
+  "generated_at_utc": "2026-09-25T15:13:42.703762+00:00",
   "states": [
     {
       "state": "NC",
@@ -9,8 +9,21 @@
       "source_file_url": "https://files.nc.gov/dor/2026-09/ApprovedVaporProducts%2008.26.2026.csv?VersionId=LIwY.Y5JD2iF4hQVxjt0XEK7HnCC_WEa",
       "latest_csv_file": "data/nc/latest.csv",
       "latest_json_file": "data/nc/latest.json",
-      "latest_change_file": "data/nc/changes/2026-09-24.json",
+      "latest_change_file": "data/nc/changes/2026-09-25.json",
       "history": [
+        {
+          "date": "2026-09-25",
+          "file": "data/nc/changes/2026-09-25.json",
+          "row_count": 818,
+          "counts": {
+            "added": 0,
+            "removed": 0,
+            "changed": 0
+          },
+          "source_file_url": "https://files.nc.gov/dor/2026-09/ApprovedVaporProducts%2008.26.2026.csv?VersionId=LIwY.Y5JD2iF4hQVxjt0XEK7HnCC_WEa",
+          "source_page_last_modified": "09/01/2026",
+          "generated_at_utc": "2026-09-25T15:13:42.703762+00:00"
+        },
         {
           "date": "2026-09-24",
           "file": "data/nc/changes/2026-09-24.json",
@@ -1167,19 +1180,6 @@
           "source_file_url": "https://files.nc.gov/dor/2026-06/ApprovedVaporProducts_06032026.csv?VersionId=.gk4C8XGd2mUp2kjrQbrip1dQfKZ3Zkd",
           "source_page_last_modified": "06/04/2026",
           "generated_at_utc": "2026-06-26T17:12:03.887444+00:00"
-        },
-        {
-          "date": "2026-06-25",
-          "file": "data/nc/changes/2026-06-25.json",
-          "row_count": 817,
-          "counts": {
-            "added": 0,
-            "removed": 0,
-            "changed": 0
-          },
-          "source_file_url": "https://files.nc.gov/dor/2026-06/ApprovedVaporProducts_06032026.csv?VersionId=.gk4C8XGd2mUp2kjrQbrip1dQfKZ3Zkd",
-          "source_page_last_modified": "06/04/2026",
-          "generated_at_utc": "2026-06-25T17:33:24.011705+00:00"
         }
       ]
     },
@@ -1191,8 +1191,21 @@
       "source_file_url": "https://revenue.nebraska.gov/sites/default/files/doc/cig/cert_dir_ends_mfrs.xlsx",
       "latest_csv_file": "data/ne/latest.csv",
       "latest_json_file": "data/ne/latest.json",
-      "latest_change_file": "data/ne/changes/2026-09-24.json",
+      "latest_change_file": "data/ne/changes/2026-09-25.json",
       "history": [
+        {
+          "date": "2026-09-25",
+          "file": "data/ne/changes/2026-09-25.json",
+          "row_count": 3566,
+          "counts": {
+            "added": 0,
+            "removed": 0,
+            "changed": 0
+          },
+          "source_file_url": "https://revenue.nebraska.gov/sites/default/files/doc/cig/cert_dir_ends_mfrs.xlsx",
+          "source_page_last_modified": null,
+          "generated_at_utc": "2026-09-25T15:13:42.703762+00:00"
+        },
         {
           "date": "2026-09-24",
           "file": "data/ne/changes/2026-09-24.json",
@@ -2349,19 +2362,6 @@
           "source_file_url": "https://revenue.nebraska.gov/sites/default/files/doc/cig/cert_dir_ends_mfrs.xlsx",
           "source_page_last_modified": null,
           "generated_at_utc": "2026-06-26T17:12:03.887444+00:00"
-        },
-        {
-          "date": "2026-06-25",
-          "file": "data/ne/changes/2026-06-25.json",
-          "row_count": 3444,
-          "counts": {
-            "added": 0,
-            "removed": 0,
-            "changed": 0
-          },
-          "source_file_url": "https://revenue.nebraska.gov/sites/default/files/doc/cig/cert_dir_ends_mfrs.xlsx",
-          "source_page_last_modified": null,
-          "generated_at_utc": "2026-06-25T17:33:24.011705+00:00"
         }
       ]
     }
