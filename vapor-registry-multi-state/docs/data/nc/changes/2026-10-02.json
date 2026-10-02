@@ -1,0 +1,2117 @@
+{
+  "state": "NC",
+  "state_name": "North Carolina",
+  "generated_at_utc": "2026-10-02T16:15:16.657362+00:00",
+  "source_url": "https://www.ncdor.gov/taxes-forms/other-taxes-and-fees/vapor-product-and-consumable-product-certification-and-directory/vapor-certification-directory",
+  "source_file_url": "https://files.nc.gov/dor/2026-10/ApprovedVaporProducts_10-01-2026.csv?VersionId=ILBkRHLfblE1kErnETtsDim91TCxCrvl",
+  "source_content_type": "text/csv",
+  "source_page_last_modified": "10/01/2026",
+  "row_count": 858,
+  "columns": [
+    "Stock Keeping Unit (SKU)",
+    "Manufacturer",
+    "Brand Name",
+    "Product Name",
+    "Category",
+    "Flavor",
+    "Date Added to Directory"
+  ],
+  "identity_columns_used": [
+    "Manufacturer",
+    "Brand Name",
+    "Product Name"
+  ],
+  "display_columns": [
+    "Manufacturer",
+    "Brand Name",
+    "Product Name",
+    "Category",
+    "Flavor",
+    "Date Added to Directory"
+  ],
+  "compared_to_snapshot": "2026-10-01.csv",
+  "counts": {
+    "added": 40,
+    "removed": 0,
+    "changed": 135
+  },
+  "changes": {
+    "added": [
+      {
+        "Stock Keeping Unit (SKU)": "849205035659",
+        "Manufacturer": "R.J. Reynolds Vapor Company",
+        "Brand Name": "Vuse",
+        "Product Name": "Vuse Pro All In One Kit Apple 5%",
+        "Category": "E-liquid Pod",
+        "Flavor": "Green Apple",
+        "Date Added to Directory": "10/01/2026"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "849205035536",
+        "Manufacturer": "R.J. Reynolds Vapor Company",
+        "Brand Name": "Vuse",
+        "Product Name": "Vuse Pro All In One Kit Berry 5%",
+        "Category": "E-liquid Pod",
+        "Flavor": "Berry Watermelon",
+        "Date Added to Directory": "10/01/2026"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "849205035475",
+        "Manufacturer": "R.J. Reynolds Vapor Company",
+        "Brand Name": "Vuse",
+        "Product Name": "Vuse Pro Pen",
+        "Category": "Device",
+        "Flavor": "Unflavored",
+        "Date Added to Directory": "10/01/2026"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "849205035413",
+        "Manufacturer": "R.J. Reynolds Vapor Company",
+        "Brand Name": "Vuse",
+        "Product Name": "Vuse Pro Box Power Unit Rose",
+        "Category": "Device",
+        "Flavor": "Unflavored",
+        "Date Added to Directory": "10/01/2026"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "849205034812",
+        "Manufacturer": "R.J. Reynolds Vapor Company",
+        "Brand Name": "Vuse",
+        "Product Name": "Vuse Pro 2 Pod Strawberry 5%",
+        "Category": "E-liquid Pod",
+        "Flavor": "Strawberry Kiwi",
+        "Date Added to Directory": "10/01/2026"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "849205035024",
+        "Manufacturer": "R.J. Reynolds Vapor Company",
+        "Brand Name": "Vuse",
+        "Product Name": "Vuse Pro 2 Pod Berry 2.4%",
+        "Category": "E-liquid Pod",
+        "Flavor": "Berry Watermelon",
+        "Date Added to Directory": "10/01/2026"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "819979013177",
+        "Manufacturer": "NJOY, LLC",
+        "Brand Name": "NJOY",
+        "Product Name": "NJOY Pods Menthol 5%",
+        "Category": "E-liquid Pod",
+        "Flavor": "Menthol",
+        "Date Added to Directory": "09/30/2026"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "849205035567",
+        "Manufacturer": "R.J. Reynolds Vapor Company",
+        "Brand Name": "Vuse",
+        "Product Name": "Vuse Pro All In One Kit Watermelon 5%",
+        "Category": "E-liquid Pod",
+        "Flavor": "Watermelon Chill",
+        "Date Added to Directory": "10/01/2026"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "849205034997",
+        "Manufacturer": "R.J. Reynolds Vapor Company",
+        "Brand Name": "Vuse",
+        "Product Name": "Vuse Pro 4 Pod Strawberry 5%",
+        "Category": "E-liquid Pod",
+        "Flavor": "Strawberry Kiwi",
+        "Date Added to Directory": "10/01/2026"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "849205035505",
+        "Manufacturer": "R.J. Reynolds Vapor Company",
+        "Brand Name": "Vuse",
+        "Product Name": "Vuse Pro 4 Pod Strawberry 2.4%",
+        "Category": "E-liquid Pod",
+        "Flavor": "Strawberry Kiwi",
+        "Date Added to Directory": "10/01/2026"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "849205035239",
+        "Manufacturer": "R.J. Reynolds Vapor Company",
+        "Brand Name": "Vuse",
+        "Product Name": "Vuse Pro 4 Pod Watermelon 2.4%",
+        "Category": "E-liquid Pod",
+        "Flavor": "Watermelon Chill",
+        "Date Added to Directory": "10/01/2026"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "849205034966",
+        "Manufacturer": "R.J. Reynolds Vapor Company",
+        "Brand Name": "Vuse",
+        "Product Name": "Vuse Pro 4 Pod Apple 5%",
+        "Category": "E-liquid Pod",
+        "Flavor": "Green Apple",
+        "Date Added to Directory": "10/01/2026"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "849205034690",
+        "Manufacturer": "R.J. Reynolds Vapor Company",
+        "Brand Name": "Vuse",
+        "Product Name": "Vuse Pro 2 Pod Watermelon 5%",
+        "Category": "E-liquid Pod",
+        "Flavor": "Watermelon Chill",
+        "Date Added to Directory": "10/01/2026"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "849205035383",
+        "Manufacturer": "R.J. Reynolds Vapor Company",
+        "Brand Name": "Vuse",
+        "Product Name": "Vuse Pro Box Power Unit Black",
+        "Category": "Device",
+        "Flavor": "Unflavored",
+        "Date Added to Directory": "10/01/2026"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "849205034751",
+        "Manufacturer": "R.J. Reynolds Vapor Company",
+        "Brand Name": "Vuse",
+        "Product Name": "Vuse Pro 2 Pod Peach 5%",
+        "Category": "E-liquid Pod",
+        "Flavor": "Peach Chill",
+        "Date Added to Directory": "10/01/2026"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "849205035260",
+        "Manufacturer": "R.J. Reynolds Vapor Company",
+        "Brand Name": "Vuse",
+        "Product Name": "Vuse Pro 4 Pod Fresh Mint 2.4%",
+        "Category": "E-liquid Pod",
+        "Flavor": "Fresh Mint",
+        "Date Added to Directory": "10/01/2026"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "849205035291",
+        "Manufacturer": "R.J. Reynolds Vapor Company",
+        "Brand Name": "Vuse",
+        "Product Name": "Vuse Pro 4 Pod Peach 2.4%",
+        "Category": "E-liquid Pod",
+        "Flavor": "Peach Chill",
+        "Date Added to Directory": "10/01/2026"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "849205034843",
+        "Manufacturer": "R.J. Reynolds Vapor Company",
+        "Brand Name": "Vuse",
+        "Product Name": "Vuse Pro 4 Pod Berry 5%",
+        "Category": "E-liquid Pod",
+        "Flavor": "Berry Watermelon",
+        "Date Added to Directory": "10/01/2026"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "849205035116",
+        "Manufacturer": "R.J. Reynolds Vapor Company",
+        "Brand Name": "Vuse",
+        "Product Name": "Vuse Pro 2 Pod Peach 2.4%",
+        "Category": "E-liquid Pod",
+        "Flavor": "Peach Chill",
+        "Date Added to Directory": "10/01/2026"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "849205035444",
+        "Manufacturer": "R.J. Reynolds Vapor Company",
+        "Brand Name": "Vuse",
+        "Product Name": "Vuse Pro Box Power Unit Navy",
+        "Category": "Device",
+        "Flavor": "Unflavored",
+        "Date Added to Directory": "10/01/2026"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "849205034782",
+        "Manufacturer": "R.J. Reynolds Vapor Company",
+        "Brand Name": "Vuse",
+        "Product Name": "Vuse Pro 2 Pod Apple 5%",
+        "Category": "E-liquid Pod",
+        "Flavor": "Green Apple",
+        "Date Added to Directory": "10/01/2026"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "819979013252",
+        "Manufacturer": "NJOY, LLC",
+        "Brand Name": "NJOY",
+        "Product Name": "NJOY Vaping Device",
+        "Category": "Device",
+        "Flavor": "None",
+        "Date Added to Directory": "09/30/2026"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "819979013191",
+        "Manufacturer": "NJOY, LLC",
+        "Brand Name": "NJOY",
+        "Product Name": "NJOY Pods Classic Tobacco 2.4%",
+        "Category": "E-liquid Pod",
+        "Flavor": "Classic Tobacco",
+        "Date Added to Directory": "09/30/2026"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "849205035208",
+        "Manufacturer": "R.J. Reynolds Vapor Company",
+        "Brand Name": "Vuse",
+        "Product Name": "Vuse Pro 4 Pod Berry 2.4%",
+        "Category": "E-liquid Pod",
+        "Flavor": "Berry Watermelon",
+        "Date Added to Directory": "10/01/2026"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "849205035598",
+        "Manufacturer": "R.J. Reynolds Vapor Company",
+        "Brand Name": "Vuse",
+        "Product Name": "Vuse Pro All In One Kit Fresh Mint 5%",
+        "Category": "E-liquid Pod",
+        "Flavor": "Fresh Mint",
+        "Date Added to Directory": "10/01/2026"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "819979013238",
+        "Manufacturer": "NJOY, LLC",
+        "Brand Name": "NJOY",
+        "Product Name": "NJOY Pods Rich Tobacco 5%",
+        "Category": "E-liquid Pod",
+        "Flavor": "Rich Tobacco",
+        "Date Added to Directory": "09/30/2026"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "849205034720",
+        "Manufacturer": "R.J. Reynolds Vapor Company",
+        "Brand Name": "Vuse",
+        "Product Name": "Vuse Pro 2 Pod Fresh Mint 5%",
+        "Category": "E-liquid Pod",
+        "Flavor": "Fresh Mint",
+        "Date Added to Directory": "10/01/2026"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "849205035178",
+        "Manufacturer": "R.J. Reynolds Vapor Company",
+        "Brand Name": "Vuse",
+        "Product Name": "Vuse Pro 2 Pod Strawberry 2.4%",
+        "Category": "E-liquid Pod",
+        "Flavor": "Strawberry Kiwi",
+        "Date Added to Directory": "10/01/2026"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "849205034669",
+        "Manufacturer": "R.J. Reynolds Vapor Company",
+        "Brand Name": "Vuse",
+        "Product Name": "Vuse Pro 2 Pod Berry 5%",
+        "Category": "E-liquid Pod",
+        "Flavor": "Berry Watermelon",
+        "Date Added to Directory": "10/01/2026"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "819979013153",
+        "Manufacturer": "NJOY, LLC",
+        "Brand Name": "NJOY",
+        "Product Name": "NJOY Pods Classic Tobacco 5%",
+        "Category": "E-liquid Pod",
+        "Flavor": "Classic Tobacco",
+        "Date Added to Directory": "09/30/2026"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "849205035147",
+        "Manufacturer": "R.J. Reynolds Vapor Company",
+        "Brand Name": "Vuse",
+        "Product Name": "Vuse Pro 2 Pod Apple 2.4%",
+        "Category": "E-liquid Pod",
+        "Flavor": "Green Apple",
+        "Date Added to Directory": "10/01/2026"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "849205034874",
+        "Manufacturer": "R.J. Reynolds Vapor Company",
+        "Brand Name": "Vuse",
+        "Product Name": "Vuse Pro 4 Pod Watermelon 5%",
+        "Category": "E-liquid Pod",
+        "Flavor": "Watermelon Chill",
+        "Date Added to Directory": "10/01/2026"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "849205035321",
+        "Manufacturer": "R.J. Reynolds Vapor Company",
+        "Brand Name": "Vuse",
+        "Product Name": "Vuse Pro 4 Pod Apple 2.4%",
+        "Category": "E-liquid Pod",
+        "Flavor": "Green Apple",
+        "Date Added to Directory": "10/01/2026"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "849205035628",
+        "Manufacturer": "R.J. Reynolds Vapor Company",
+        "Brand Name": "Vuse",
+        "Product Name": "Vuse Pro All In One Kit Peach 5%",
+        "Category": "E-liquid Pod",
+        "Flavor": "Peach Chill",
+        "Date Added to Directory": "10/01/2026"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "849205035680",
+        "Manufacturer": "R.J. Reynolds Vapor Company",
+        "Brand Name": "Vuse",
+        "Product Name": "Vuse Pro All In One Kit Strawberry 5%",
+        "Category": "E-liquid Pod",
+        "Flavor": "Strawberry Kiwi",
+        "Date Added to Directory": "10/01/2026"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "849205034935",
+        "Manufacturer": "R.J. Reynolds Vapor Company",
+        "Brand Name": "Vuse",
+        "Product Name": "Vuse Pro 4 Pod Peach 5%",
+        "Category": "E-liquid Pod",
+        "Flavor": "Peach Chill",
+        "Date Added to Directory": "10/01/2026"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "849205034904",
+        "Manufacturer": "R.J. Reynolds Vapor Company",
+        "Brand Name": "Vuse",
+        "Product Name": "Vuse Pro 4 Pod Fresh Mint 5%",
+        "Category": "E-liquid Pod",
+        "Flavor": "Fresh Mint",
+        "Date Added to Directory": "10/01/2026"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "849205035086",
+        "Manufacturer": "R.J. Reynolds Vapor Company",
+        "Brand Name": "Vuse",
+        "Product Name": "Vuse Pro 2 Pod Fresh Mint 2.4%",
+        "Category": "E-liquid Pod",
+        "Flavor": "Fresh Mint",
+        "Date Added to Directory": "10/01/2026"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "849205035055",
+        "Manufacturer": "R.J. Reynolds Vapor Company",
+        "Brand Name": "Vuse",
+        "Product Name": "Vuse Pro 2 Pod Watermelon 2.4%",
+        "Category": "E-liquid Pod",
+        "Flavor": "Watermelon Chill",
+        "Date Added to Directory": "10/01/2026"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "819979013214",
+        "Manufacturer": "NJOY, LLC",
+        "Brand Name": "NJOY",
+        "Product Name": "NJOY Pods Menthol 2.4%",
+        "Category": "E-liquid Pod",
+        "Flavor": "Menthol",
+        "Date Added to Directory": "09/30/2026"
+      }
+    ],
+    "removed": [],
+    "changed": [
+      {
+        "identifier": "",
+        "manufacturer": "Fontem US LLC",
+        "brand": "MyBlu",
+        "product": "MyBlu Gold Leaf Tobacco 1.2%",
+        "changes": {
+          "Brand Name": {
+            "before": "Myblu",
+            "after": "MyBlu"
+          },
+          "Product Name": {
+            "before": "Myblu Gold Leaf Tobacco 1.2%",
+            "after": "MyBlu Gold Leaf Tobacco 1.2%"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "NJOY, LLC",
+        "brand": "NJOY",
+        "product": "NJOY Ace Pods Classic Tobacco 5% 2ct",
+        "changes": {
+          "Brand Name": {
+            "before": "Njoy",
+            "after": "NJOY"
+          },
+          "Product Name": {
+            "before": "Njoy Ace Pods Classic Tobacco 5% 2ct",
+            "after": "NJOY Ace Pods Classic Tobacco 5% 2ct"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Shock And Awe 60ml 6mg",
+        "changes": {
+          "Flavor": {
+            "before": "Mango Peach & Tropical Fruit",
+            "after": "Mangopeach&tropicalfruit"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Purple No. 1 - 35mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0013415353555",
+            "after": "13415353555"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Tobacco Gold No. 1 - 12mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0013415358123",
+            "after": "13415358123"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Sucker Punch 60ml 6mg",
+        "changes": {
+          "Flavor": {
+            "before": "Sweet Cream Mixed Fruit Drago",
+            "after": "Sweet Cream Mixed Fruit Dragonfruit"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "NJOY, LLC",
+        "brand": "NJOY",
+        "product": "NJOY Daily Extra Rich Tobacco 6%",
+        "changes": {
+          "Brand Name": {
+            "before": "Njoy",
+            "after": "NJOY"
+          },
+          "Product Name": {
+            "before": "Njoy Daily Extra Rich Tobacco 6%",
+            "after": "NJOY Daily Extra Rich Tobacco 6%"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fontem US LLC",
+        "brand": "MyBlu",
+        "product": "MyBlu Intense Tobacco 3.6%",
+        "changes": {
+          "Brand Name": {
+            "before": "Myblu",
+            "after": "MyBlu"
+          },
+          "Product Name": {
+            "before": "Myblu Intense Tobacco 3.6%",
+            "after": "MyBlu Intense Tobacco 3.6%"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "NJOY, LLC",
+        "brand": "NJOY",
+        "product": "All-in-one Kit Device + Classic Tobacco 5% 2-pod",
+        "changes": {
+          "Brand Name": {
+            "before": "Njoy",
+            "after": "NJOY"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Red No. 1 - 50mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0019213583705",
+            "after": "19213583705"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fontem US LLC",
+        "brand": "MyBlu",
+        "product": "MyBlu Magnificent Menthol 1.2%",
+        "changes": {
+          "Brand Name": {
+            "before": "Myblu",
+            "after": "MyBlu"
+          },
+          "Product Name": {
+            "before": "Myblu Magnificent Menthol 1.2%",
+            "after": "MyBlu Magnificent Menthol 1.2%"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Coastal Clouds LLC",
+        "brand": "Coastal Clouds",
+        "product": "Melon Berries 50mg 30ml",
+        "changes": {
+          "Flavor": {
+            "before": "Watermelon, Cantaloupe, H",
+            "after": "Watermelon, Cantaloupe, Honeydew"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Sucker Punch 60ml 3mg",
+        "changes": {
+          "Flavor": {
+            "before": "Sweet Cream Mixed Fruit Drago",
+            "after": "Sweet Cream Mixed Fruit Dragonfruit"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Green No. 1 - 6mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0704751829131",
+            "after": "704751829131"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Shock And Awe 60ml 12mg",
+        "changes": {
+          "Flavor": {
+            "before": "Mango Peach & Tropical Fruit",
+            "after": "Mangopeach&tropicalfruit"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Menthol No. 1 - 6mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0013415358291",
+            "after": "13415358291"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Coastal Clouds LLC",
+        "brand": "Coastal Clouds",
+        "product": "Melon Berries 35mg 30ml",
+        "changes": {
+          "Flavor": {
+            "before": "Watermelon, Cantaloupe, H",
+            "after": "Watermelon, Cantaloupe, Honeydew"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Coastal Clouds LLC",
+        "brand": "Coastal Clouds",
+        "product": "Mixed Berries 6mg 60ml",
+        "changes": {
+          "Flavor": {
+            "before": "Boysenberry, Apple, Raspb",
+            "after": "Boysenberry, Apple, Raspberry"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Tobacco Gold No. 1 - 6mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0013415358093",
+            "after": "13415358093"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Crimson No. 1- 3mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0704751829247",
+            "after": "704751829247"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Blend No. 1 - 6mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0704751829100",
+            "after": "704751829100"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Blend No. 1 - 35mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0012436990671",
+            "after": "12436990671"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Coastal Clouds LLC",
+        "brand": "Coastal Clouds",
+        "product": "Iced Apple Peach Strawberry 6mg 60ml",
+        "changes": {
+          "Flavor": {
+            "before": "Apple, Peach, Strawberry,",
+            "after": "Apple, Peach, Strawberry"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Shock And Awe 120ml 12mg",
+        "changes": {
+          "Flavor": {
+            "before": "Mango Peach & Tropical Fruit",
+            "after": "Mangopeach&tropicalfruit"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fontem US LLC",
+        "brand": "MyBlu",
+        "product": "MyBlu Device",
+        "changes": {
+          "Brand Name": {
+            "before": "Myblu",
+            "after": "MyBlu"
+          },
+          "Product Name": {
+            "before": "Myblu Device",
+            "after": "MyBlu Device"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Coastal Clouds LLC",
+        "brand": "Coastal Clouds",
+        "product": "Iced Melon Berries 6mg 60ml",
+        "changes": {
+          "Flavor": {
+            "before": "Watermelon, Cantaloupe, H",
+            "after": "Watermelon, Cantaloupe, Honeydew"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Menthol No. 1 - 18mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0013415358314",
+            "after": "13415358314"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "NJOY, LLC",
+        "brand": "NJOY",
+        "product": "All-in-one Kit Device + Menthol 5% 1-pod",
+        "changes": {
+          "Brand Name": {
+            "before": "Njoy",
+            "after": "NJOY"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Crimson No. 1 - 50mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0012436990701",
+            "after": "12436990701"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Green No. 1 - 50mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0019213583644",
+            "after": "19213583644"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Tobacco Platimun No. 1 - 12mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0013415358246",
+            "after": "13415358246"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Green No. 1 - 3mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0704751729124",
+            "after": "704751729124"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Crimson No. 1 - 6mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0704751829254",
+            "after": "704751829254"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Coastal Clouds LLC",
+        "brand": "Coastal Clouds",
+        "product": "Iced Passion Fruit Orange Guava 6mg 60ml",
+        "changes": {
+          "Flavor": {
+            "before": "Passion Fruit, Orange, Gu",
+            "after": "Passion Fruit, Orange, Guava"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Sucker Punch 120ml 6mg",
+        "changes": {
+          "Flavor": {
+            "before": "Sweet Cream Mixed Fruit Drago",
+            "after": "Sweet Cream Mixed Fruit Dragonfruit"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Coastal Clouds LLC",
+        "brand": "Coastal Clouds",
+        "product": "Melon Berries 6mg 60ml",
+        "changes": {
+          "Flavor": {
+            "before": "Watermelon, Cantaloupe, H",
+            "after": "Watermelon, Cantaloupe, Honeydew"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Coastal Clouds LLC",
+        "brand": "Coastal Clouds",
+        "product": "Iced Mango Berries 3mg 60ml",
+        "changes": {
+          "Flavor": {
+            "before": "Mango, Strawberry, Kiwi,",
+            "after": "Mango, Strawberry, Kiwi"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Red No. 1 - 6mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0704751829261",
+            "after": "704751829261"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Pink No. 1 - 3mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0704751829216",
+            "after": "704751829216"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Coastal Clouds LLC",
+        "brand": "Coastal Clouds",
+        "product": "Iced Passion Fruit Orange Guava 3mg 60ml",
+        "changes": {
+          "Flavor": {
+            "before": "Passion Fruit, Orange, Gu",
+            "after": "Passion Fruit, Orange, Guava"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Coastal Clouds LLC",
+        "brand": "Coastal Clouds",
+        "product": "Mixed Berries 3mg 60ml",
+        "changes": {
+          "Flavor": {
+            "before": "Boysenberry, Apple, Raspb",
+            "after": "Boysenberry, Apple, Raspberry"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Coastal Clouds LLC",
+        "brand": "Coastal Clouds",
+        "product": "Chilled Apple Pear 50mg 30ml",
+        "changes": {
+          "Flavor": {
+            "before": "Apple, Pear, Kiwi, Mentho",
+            "after": "Apple, Pear, Kiwi, Menthol"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Coastal Clouds LLC",
+        "brand": "Coastal Clouds",
+        "product": "Iced Mango Berries 50mg 30ml",
+        "changes": {
+          "Flavor": {
+            "before": "Mango, Strawberry, Kiwi,",
+            "after": "Mango, Strawberry, Kiwi"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fontem US LLC",
+        "brand": "MyBlu",
+        "product": "MyBlu Starter Pack Gold Leaf 2.4%",
+        "changes": {
+          "Brand Name": {
+            "before": "Myblu",
+            "after": "MyBlu"
+          },
+          "Product Name": {
+            "before": "Myblu Starter Pack Gold Leaf 2.4%",
+            "after": "MyBlu Starter Pack Gold Leaf 2.4%"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Coastal Clouds LLC",
+        "brand": "Coastal Clouds",
+        "product": "Passion Fruit Orange Guava 6mg 60ml",
+        "changes": {
+          "Flavor": {
+            "before": "Passion Fruit, Orange, Gu",
+            "after": "Passion Fruit, Orange, Guava"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Menthol No. 1 - 35mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0012436990718",
+            "after": "12436990718"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Coastal Clouds LLC",
+        "brand": "Coastal Clouds",
+        "product": "Passion Fruit Orange Guava 3mg 60ml",
+        "changes": {
+          "Flavor": {
+            "before": "Passion Fruit, Orange, Gu",
+            "after": "Passion Fruit, Orange, Guava"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Tobacco Platinum No. 1 - 6mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0013415358239",
+            "after": "13415358239"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Red No. 1 - 35mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0019213583699",
+            "after": "19213583699"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Coastal Clouds LLC",
+        "brand": "Coastal Clouds",
+        "product": "Mango Berries 6mg 60ml",
+        "changes": {
+          "Flavor": {
+            "before": "Mango, Strawberry, Kiwi,",
+            "after": "Mango, Strawberry, Kiwi"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Claim Your Throne 60ml 3mg",
+        "changes": {
+          "Flavor": {
+            "before": "Sweet Cream & Butter Scotch",
+            "after": "Sweet Cream&butterscotch"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Bound By The Crown 60ml 1.5mg",
+        "changes": {
+          "Flavor": {
+            "before": "Sweet Custard Mixed Fruit",
+            "after": "Sweetcustardmixedfruit"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Bound By The Crown 60ml 12mg",
+        "changes": {
+          "Flavor": {
+            "before": "Sweet Custard Mixed Fruit",
+            "after": "Sweetcustardmixedfruit"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Coastal Clouds LLC",
+        "brand": "Coastal Clouds",
+        "product": "Chilled Apple Pear 35mg 30ml",
+        "changes": {
+          "Flavor": {
+            "before": "Apple, Pear, Kiwi, Mentho",
+            "after": "Apple, Pear, Kiwi, Menthol"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Menthol No. 1 - 12mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0013415358307",
+            "after": "13415358307"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "The Schwartz E Liquid",
+        "brand": "Naked100",
+        "product": "Really Berry 0mg",
+        "changes": {
+          "Flavor": {
+            "before": "Blackberry Blueberry Lemon",
+            "after": "Blackberry Blueberrylemon"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Claim Your Throne 120ml 6mg",
+        "changes": {
+          "Flavor": {
+            "before": "Sweet Cream & Butter Scotch",
+            "after": "Sweet Cream&butterscotch"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Sucker Punch 120ml 3mg",
+        "changes": {
+          "Flavor": {
+            "before": "Sweet Cream Mixed Fruit Drago",
+            "after": "Sweet Cream Mixed Fruit Dragonfruit"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Sucker Punch 120ml 12mg",
+        "changes": {
+          "Flavor": {
+            "before": "Sweet Cream Mixed Fruit Drago",
+            "after": "Sweet Cream Mixed Fruit Dragonfruit"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fontem US LLC",
+        "brand": "MyBlu",
+        "product": "MyBlu Device – Anniversary Edition (silver)",
+        "changes": {
+          "Brand Name": {
+            "before": "Myblu",
+            "after": "MyBlu"
+          },
+          "Product Name": {
+            "before": "Myblu Device – Anniversary Edition (silver)",
+            "after": "MyBlu Device – Anniversary Edition (silver)"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Tobacco Platimun No. 1 - 18mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0013415358253",
+            "after": "13415358253"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "NJOY, LLC",
+        "brand": "NJOY",
+        "product": "NJOY Daily Extra Menthol 6%",
+        "changes": {
+          "Brand Name": {
+            "before": "Njoy",
+            "after": "NJOY"
+          },
+          "Product Name": {
+            "before": "Njoy Daily Extra Menthol 6%",
+            "after": "NJOY Daily Extra Menthol 6%"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Bound By The Crown 120ml 12mg",
+        "changes": {
+          "Flavor": {
+            "before": "Sweet Custard Mixed Fruit",
+            "after": "Sweetcustardmixedfruit"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "NJOY, LLC",
+        "brand": "NJOY",
+        "product": "NJOY Ace Pod Menthol 5% 1ct",
+        "changes": {
+          "Brand Name": {
+            "before": "Njoy",
+            "after": "NJOY"
+          },
+          "Product Name": {
+            "before": "Njoy Ace Pod Menthol 5% 1ct",
+            "after": "NJOY Ace Pod Menthol 5% 1ct"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Claim Your Throne 60ml 6mg",
+        "changes": {
+          "Flavor": {
+            "before": "Sweet Cream & Butter Scotch",
+            "after": "Sweet Cream&butterscotch"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Coastal Clouds LLC",
+        "brand": "Coastal Clouds",
+        "product": "Iced Mango Berries 6mg 60ml",
+        "changes": {
+          "Flavor": {
+            "before": "Mango, Strawberry, Kiwi,",
+            "after": "Mango, Strawberry, Kiwi"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Shock And Awe 60ml 18mg",
+        "changes": {
+          "Flavor": {
+            "before": "Mango Peach & Tropical Fruit",
+            "after": "Mangopeach&tropicalfruit"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Pink No. 1 - 35mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0019213583675",
+            "after": "19213583675"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Pink 0° - 6mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0704751829377",
+            "after": "704751829377"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "NJOY, LLC",
+        "brand": "NJOY",
+        "product": "NJOY Ace Pods Menthol 2.4% 2ct",
+        "changes": {
+          "Brand Name": {
+            "before": "Njoy",
+            "after": "NJOY"
+          },
+          "Product Name": {
+            "before": "Njoy Ace Pods Menthol 2.4% 2ct",
+            "after": "NJOY Ace Pods Menthol 2.4% 2ct"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Tobacco Gold No. 1- 3mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0013415358086",
+            "after": "13415358086"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Bound By The Crown 60ml 3mg",
+        "changes": {
+          "Flavor": {
+            "before": "Sweet Custard Mixed Fruit",
+            "after": "Sweetcustardmixedfruit"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "NJOY, LLC",
+        "brand": "NJOY",
+        "product": "NJOY Daily Menthol 4.5%",
+        "changes": {
+          "Brand Name": {
+            "before": "Njoy",
+            "after": "NJOY"
+          },
+          "Product Name": {
+            "before": "Njoy Daily Menthol 4.5%",
+            "after": "NJOY Daily Menthol 4.5%"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "NJOY, LLC",
+        "brand": "NJOY",
+        "product": "NJOY Ace Pod Classic Tobacco 5% 1ct",
+        "changes": {
+          "Brand Name": {
+            "before": "Njoy",
+            "after": "NJOY"
+          },
+          "Product Name": {
+            "before": "Njoy Ace Pod Classic Tobacco 5% 1ct",
+            "after": "NJOY Ace Pod Classic Tobacco 5% 1ct"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Coastal Clouds LLC",
+        "brand": "Coastal Clouds",
+        "product": "Iced Apple Peach Strawberry 3mg 60ml",
+        "changes": {
+          "Flavor": {
+            "before": "Apple, Peach, Strawberry,",
+            "after": "Apple, Peach, Strawberry"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Claim Your Throne 120ml 12mg",
+        "changes": {
+          "Flavor": {
+            "before": "Sweet Cream & Butter Scotch",
+            "after": "Sweet Cream&butterscotch"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Tobacco Silver No. 1 - 18mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0013415358192",
+            "after": "13415358192"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fontem US LLC",
+        "brand": "MyBlu",
+        "product": "MyBlu Intense Tobacco Chill 2.5%",
+        "changes": {
+          "Brand Name": {
+            "before": "Myblu",
+            "after": "MyBlu"
+          },
+          "Product Name": {
+            "before": "Myblu Intense Tobacco Chill 2.5%",
+            "after": "MyBlu Intense Tobacco Chill 2.5%"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fontem US LLC",
+        "brand": "MyBlu",
+        "product": "MyBlu Menthol 2.4%",
+        "changes": {
+          "Brand Name": {
+            "before": "Myblu",
+            "after": "MyBlu"
+          },
+          "Product Name": {
+            "before": "Myblu Menthol 2.4%",
+            "after": "MyBlu Menthol 2.4%"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Sucker Punch 120ml 1.5mg",
+        "changes": {
+          "Flavor": {
+            "before": "Sweet Cream Mixed Fruit Drago",
+            "after": "Sweet Cream Mixed Fruit Dragonfruit"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Coastal Clouds LLC",
+        "brand": "Coastal Clouds",
+        "product": "Iced Melon Berries 3mg 60ml",
+        "changes": {
+          "Flavor": {
+            "before": "Watermelon, Cantaloupe, H",
+            "after": "Watermelon, Cantaloupe, Honeydew"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Coastal Clouds LLC",
+        "brand": "Coastal Clouds",
+        "product": "Strawberry Cream 3mg 60ml",
+        "changes": {
+          "Flavor": {
+            "before": "Strawberry, Berry, Cream,",
+            "after": "Strawberry, Berry, Cream"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Claim Your Throne 120ml 1.5mg",
+        "changes": {
+          "Flavor": {
+            "before": "Sweet Cream & Butter Scotch",
+            "after": "Sweet Cream&butterscotch"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Breeze Smoke LLC",
+        "brand": "Breeze Smoke",
+        "product": "Breeze Smoke Disposable Pod Ends Tobacco",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "00810132652103",
+            "after": "810132652103"
+          },
+          "Manufacturer": {
+            "before": "Breeze Smoke Llc",
+            "after": "Breeze Smoke LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Crimson No. 1 - 35mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0012436990695",
+            "after": "12436990695"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Tobacco Platinum No. 1 - 3mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0013415358222",
+            "after": "13415358222"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "NJOY, LLC",
+        "brand": "NJOY",
+        "product": "NJOY Ace Pods Classic Tobacco 2.4% 2ct",
+        "changes": {
+          "Brand Name": {
+            "before": "Njoy",
+            "after": "NJOY"
+          },
+          "Product Name": {
+            "before": "Njoy Ace Pods Classic Tobacco 2.4% 2ct",
+            "after": "NJOY Ace Pods Classic Tobacco 2.4% 2ct"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Tobacco Gold No. 1 - 50mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0012436990398",
+            "after": "12436990398"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Blend No. 1 - 3mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0704751829094",
+            "after": "704751829094"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "NJOY, LLC",
+        "brand": "NJOY",
+        "product": "All-in-one Kit Device + Classic Tobacco 5% 1-pod",
+        "changes": {
+          "Brand Name": {
+            "before": "Njoy",
+            "after": "NJOY"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Bound By The Crown 120ml 3mg",
+        "changes": {
+          "Flavor": {
+            "before": "Sweet Custard Mixed Fruit",
+            "after": "Sweetcustardmixedfruit"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Shock And Awe 120ml 6mg",
+        "changes": {
+          "Flavor": {
+            "before": "Mango Peach & Tropical Fruit",
+            "after": "Mangopeach&tropicalfruit"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Green No. 1 - 35mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0019213583637",
+            "after": "19213583637"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Tobacco Gold No. 1 - 35mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0012436990381",
+            "after": "12436990381"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "NJOY, LLC",
+        "brand": "NJOY",
+        "product": "NJOY Daily Rich Tobacco 4.5%",
+        "changes": {
+          "Brand Name": {
+            "before": "Njoy",
+            "after": "NJOY"
+          },
+          "Product Name": {
+            "before": "Njoy Daily Rich Tobacco 4.5%",
+            "after": "NJOY Daily Rich Tobacco 4.5%"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Purple No. 1 - 50mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0013415353562",
+            "after": "13415353562"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Coastal Clouds LLC",
+        "brand": "Coastal Clouds",
+        "product": "Iced Mango Berries 35mg 30ml",
+        "changes": {
+          "Flavor": {
+            "before": "Mango, Strawberry, Kiwi,",
+            "after": "Mango, Strawberry, Kiwi"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fontem US LLC",
+        "brand": "MyBlu",
+        "product": "MyBlu Intense Tobacco 2.4%",
+        "changes": {
+          "Brand Name": {
+            "before": "Myblu",
+            "after": "MyBlu"
+          },
+          "Product Name": {
+            "before": "Myblu Intense Tobacco 2.4%",
+            "after": "MyBlu Intense Tobacco 2.4%"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Sucker Punch 60ml 12mg",
+        "changes": {
+          "Flavor": {
+            "before": "Sweet Cream Mixed Fruit Drago",
+            "after": "Sweet Cream Mixed Fruit Dragonfruit"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Menthol No. 1 - 50mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0012436990725",
+            "after": "12436990725"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Blend No. 1 - 50mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0012436990688",
+            "after": "12436990688"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Mint 0° - 35mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0013415350615",
+            "after": "13415350615"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Pink No. 1 - 50mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0019213583682",
+            "after": "19213583682"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Bound By The Crown 120ml 6mg",
+        "changes": {
+          "Flavor": {
+            "before": "Sweet Custard Mixed Fruit",
+            "after": "Sweetcustardmixedfruit"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Sucker Punch 60ml 18mg",
+        "changes": {
+          "Flavor": {
+            "before": "Sweet Cream Mixed Fruit Drago",
+            "after": "Sweet Cream Mixed Fruit Dragonfruit"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Bound By The Crown 60ml 6mg",
+        "changes": {
+          "Flavor": {
+            "before": "Sweet Custard Mixed Fruit",
+            "after": "Sweetcustardmixedfruit"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Shock And Awe 60ml 3mg",
+        "changes": {
+          "Flavor": {
+            "before": "Mango Peach & Tropical Fruit",
+            "after": "Mangopeach&tropicalfruit"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "NJOY, LLC",
+        "brand": "NJOY",
+        "product": "All-in-one Kit Device + Menthol 5% 2-pod",
+        "changes": {
+          "Brand Name": {
+            "before": "Njoy",
+            "after": "NJOY"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Coastal Clouds LLC",
+        "brand": "Coastal Clouds",
+        "product": "Mango Berries 3mg 60ml",
+        "changes": {
+          "Flavor": {
+            "before": "Mango, Strawberry, Kiwi,",
+            "after": "Mango, Strawberry, Kiwi"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Coastal Clouds LLC",
+        "brand": "Coastal Clouds",
+        "product": "Melon Berries 3mg 60ml",
+        "changes": {
+          "Flavor": {
+            "before": "Watermelon, Cantaloupe, H",
+            "after": "Watermelon, Cantaloupe, Honeydew"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Sucker Punch 60ml 1.5mg",
+        "changes": {
+          "Flavor": {
+            "before": "Sweet Cream Mixed Fruit Drago",
+            "after": "Sweet Cream Mixed Fruit Dragonfruit"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fontem US LLC",
+        "brand": "MyBlu",
+        "product": "MyBlu Intense Tobacco Chill 4.0%",
+        "changes": {
+          "Brand Name": {
+            "before": "Myblu",
+            "after": "MyBlu"
+          },
+          "Product Name": {
+            "before": "Myblu Intense Tobacco Chill 4.0%",
+            "after": "MyBlu Intense Tobacco Chill 4.0%"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Pink 0° - 35mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0704751828929",
+            "after": "704751828929"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Maduro Distributors Inc dba The Loon",
+        "brand": "Loon",
+        "product": "Loon Air Maxx",
+        "changes": {
+          "Flavor": {
+            "before": "Blue Raspberry (blue Razz",
+            "after": "Blue Raspberry (blue Razz)"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Claim Your Throne 60ml 1.5mg",
+        "changes": {
+          "Flavor": {
+            "before": "Sweet Cream & Butter Scotch",
+            "after": "Sweet Cream&butterscotch"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Menthol No. 1 - 3mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0013415358284",
+            "after": "13415358284"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Red No. 1 - 3mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0704751829278",
+            "after": "704751829278"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Pink No. 1 - 6mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0704751829223",
+            "after": "704751829223"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Claim Your Throne 60ml 12mg",
+        "changes": {
+          "Flavor": {
+            "before": "Sweet Cream & Butter Scotch",
+            "after": "Sweet Cream&butterscotch"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Tobacco Silver No. 1 - 12mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0013415358185",
+            "after": "13415358185"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Purple No. 1 - 3mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0013415353104",
+            "after": "13415353104"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Coastal Clouds LLC",
+        "brand": "Coastal Clouds",
+        "product": "Strawberry Cream 6mg 60ml",
+        "changes": {
+          "Flavor": {
+            "before": "Strawberry, Berry, Cream,",
+            "after": "Strawberry, Berry, Cream"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Tobacco Gold No. 1 - 18mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0013415358130",
+            "after": "13415358130"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Claim Your Throne 60ml 18mg",
+        "changes": {
+          "Flavor": {
+            "before": "Sweet Cream & Butter Scotch",
+            "after": "Sweet Cream&butterscotch"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Purple No. 1 - 6mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0013415353111",
+            "after": "13415353111"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "NJOY, LLC",
+        "brand": "NJOY",
+        "product": "NJOY Ace Pods Rich Tobacco 5% 2ct",
+        "changes": {
+          "Brand Name": {
+            "before": "Njoy",
+            "after": "NJOY"
+          },
+          "Product Name": {
+            "before": "Njoy Ace Pods Rich Tobacco 5% 2ct",
+            "after": "NJOY Ace Pods Rich Tobacco 5% 2ct"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Shock And Awe 120ml 3mg",
+        "changes": {
+          "Flavor": {
+            "before": "Mango Peach & Tropical Fruit",
+            "after": "Mangopeach&tropicalfruit"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "NJOY, LLC",
+        "brand": "NJOY",
+        "product": "NJOY Ace Pod Menthol 5% 2ct",
+        "changes": {
+          "Brand Name": {
+            "before": "Njoy",
+            "after": "NJOY"
+          },
+          "Product Name": {
+            "before": "Njoy Ace Pod Menthol 5% 2ct",
+            "after": "NJOY Ace Pod Menthol 5% 2ct"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Tobacco Silver No. 1 - 6mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0013415358178",
+            "after": "13415358178"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fontem US LLC",
+        "brand": "MyBlu",
+        "product": "MyBlu Gold Leaf Tobacco 2.4%",
+        "changes": {
+          "Brand Name": {
+            "before": "Myblu",
+            "after": "MyBlu"
+          },
+          "Product Name": {
+            "before": "Myblu Gold Leaf Tobacco 2.4%",
+            "after": "MyBlu Gold Leaf Tobacco 2.4%"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Mint 0° - 50mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0013415352114",
+            "after": "13415352114"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fontem US LLC",
+        "brand": "Blu Plus",
+        "product": "Blu Plus+ Xpress Kit (classic Tobacco)",
+        "changes": {
+          "Flavor": {
+            "before": "NA / Tobacco",
+            "after": "N/A, Tobacco"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Claim Your Throne 120ml 3mg",
+        "changes": {
+          "Flavor": {
+            "before": "Sweet Cream & Butter Scotch",
+            "after": "Sweet Cream&butterscotch"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Bound By The Crown 120ml 1.5mg",
+        "changes": {
+          "Flavor": {
+            "before": "Sweet Custard Mixed Fruit",
+            "after": "Sweetcustardmixedfruit"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Fumizer LLC",
+        "brand": "Twist E-liquid",
+        "product": "Pink 0° - 3mg/ml",
+        "changes": {
+          "Stock Keeping Unit (SKU)": {
+            "before": "0704751829360",
+            "after": "704751829360"
+          }
+        }
+      }
+    ]
+  }
+}

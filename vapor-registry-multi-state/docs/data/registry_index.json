@@ -1,16 +1,29 @@
 {
-  "generated_at_utc": "2026-10-01T17:00:51.174797+00:00",
+  "generated_at_utc": "2026-10-02T16:15:16.657362+00:00",
   "states": [
     {
       "state": "NC",
       "state_name": "North Carolina",
       "enabled": true,
       "source_url": "https://www.ncdor.gov/taxes-forms/other-taxes-and-fees/vapor-product-and-consumable-product-certification-and-directory/vapor-certification-directory",
-      "source_file_url": "https://files.nc.gov/dor/2026-09/ApprovedVaporProducts%2008.26.2026.csv?VersionId=LIwY.Y5JD2iF4hQVxjt0XEK7HnCC_WEa",
+      "source_file_url": "https://files.nc.gov/dor/2026-10/ApprovedVaporProducts_10-01-2026.csv?VersionId=ILBkRHLfblE1kErnETtsDim91TCxCrvl",
       "latest_csv_file": "data/nc/latest.csv",
       "latest_json_file": "data/nc/latest.json",
-      "latest_change_file": "data/nc/changes/2026-10-01.json",
+      "latest_change_file": "data/nc/changes/2026-10-02.json",
       "history": [
+        {
+          "date": "2026-10-02",
+          "file": "data/nc/changes/2026-10-02.json",
+          "row_count": 858,
+          "counts": {
+            "added": 40,
+            "removed": 0,
+            "changed": 135
+          },
+          "source_file_url": "https://files.nc.gov/dor/2026-10/ApprovedVaporProducts_10-01-2026.csv?VersionId=ILBkRHLfblE1kErnETtsDim91TCxCrvl",
+          "source_page_last_modified": "10/01/2026",
+          "generated_at_utc": "2026-10-02T16:15:16.657362+00:00"
+        },
         {
           "date": "2026-10-01",
           "file": "data/nc/changes/2026-10-01.json",
@@ -1167,19 +1180,6 @@
           "source_file_url": "https://files.nc.gov/dor/2026-07/ApprovedVaporProducts%2006.30.2026.csv?VersionId=n8ivyPU2yX60jI5hDNEDKzesFXcqUcIG",
           "source_page_last_modified": "07/01/2026",
           "generated_at_utc": "2026-07-03T12:19:14.960809+00:00"
-        },
-        {
-          "date": "2026-07-02",
-          "file": "data/nc/changes/2026-07-02.json",
-          "row_count": 819,
-          "counts": {
-            "added": 6,
-            "removed": 4,
-            "changed": 13
-          },
-          "source_file_url": "https://files.nc.gov/dor/2026-07/ApprovedVaporProducts%2006.30.2026.csv?VersionId=n8ivyPU2yX60jI5hDNEDKzesFXcqUcIG",
-          "source_page_last_modified": "07/01/2026",
-          "generated_at_utc": "2026-07-02T12:20:30.535806+00:00"
         }
       ]
     },
@@ -1191,8 +1191,21 @@
       "source_file_url": "https://revenue.nebraska.gov/sites/default/files/doc/cig/cert_dir_ends_mfrs.xlsx",
       "latest_csv_file": "data/ne/latest.csv",
       "latest_json_file": "data/ne/latest.json",
-      "latest_change_file": "data/ne/changes/2026-10-01.json",
+      "latest_change_file": "data/ne/changes/2026-10-02.json",
       "history": [
+        {
+          "date": "2026-10-02",
+          "file": "data/ne/changes/2026-10-02.json",
+          "row_count": 3566,
+          "counts": {
+            "added": 0,
+            "removed": 0,
+            "changed": 0
+          },
+          "source_file_url": "https://revenue.nebraska.gov/sites/default/files/doc/cig/cert_dir_ends_mfrs.xlsx",
+          "source_page_last_modified": null,
+          "generated_at_utc": "2026-10-02T16:15:16.657362+00:00"
+        },
         {
           "date": "2026-10-01",
           "file": "data/ne/changes/2026-10-01.json",
@@ -2349,19 +2362,6 @@
           "source_file_url": "https://revenue.nebraska.gov/sites/default/files/doc/cig/cert_dir_ends_mfrs.xlsx",
           "source_page_last_modified": null,
           "generated_at_utc": "2026-07-03T12:19:14.960809+00:00"
-        },
-        {
-          "date": "2026-07-02",
-          "file": "data/ne/changes/2026-07-02.json",
-          "row_count": 3519,
-          "counts": {
-            "added": 0,
-            "removed": 0,
-            "changed": 0
-          },
-          "source_file_url": "https://revenue.nebraska.gov/sites/default/files/doc/cig/cert_dir_ends_mfrs.xlsx",
-          "source_page_last_modified": null,
-          "generated_at_utc": "2026-07-02T12:20:30.535806+00:00"
         }
       ]
     }
