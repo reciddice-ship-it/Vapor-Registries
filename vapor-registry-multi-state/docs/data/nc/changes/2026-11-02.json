@@ -1,0 +1,4920 @@
+{
+  "state": "NC",
+  "state_name": "North Carolina",
+  "generated_at_utc": "2026-11-02T20:19:38.906992+00:00",
+  "source_url": "https://www.ncdor.gov/taxes-forms/other-taxes-and-fees/vapor-product-and-consumable-product-certification-and-directory/vapor-certification-directory",
+  "source_file_url": "https://files.nc.gov/dor/2026-11/ApprovedVaporProducts%2010.29.26.csv?VersionId=r2HnQDQaE4TJYk8XVucKq.0oCODS1R3Q",
+  "source_content_type": "text/csv",
+  "source_page_last_modified": "11/02/2026",
+  "row_count": 860,
+  "columns": [
+    "Stock Keeping Unit (SKU)",
+    "Manufacturer",
+    "Brand Name",
+    "Product Name",
+    "Category",
+    "Flavor",
+    "Date Added to Directory"
+  ],
+  "identity_columns_used": [
+    "Manufacturer",
+    "Brand Name",
+    "Product Name"
+  ],
+  "display_columns": [
+    "Manufacturer",
+    "Brand Name",
+    "Product Name",
+    "Category",
+    "Flavor",
+    "Date Added to Directory"
+  ],
+  "compared_to_snapshot": "2026-11-01.csv",
+  "counts": {
+    "added": 44,
+    "removed": 42,
+    "changed": 336
+  },
+  "changes": {
+    "added": [
+      {
+        "Stock Keeping Unit (SKU)": "850022314872",
+        "Manufacturer": "VDX Distro Inc..",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Virginia Tobacco 60ml 12mg",
+        "Category": "E-liquid",
+        "Flavor": "Virginia Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435388",
+        "Manufacturer": "VDX Distro Inc..",
+        "Brand Name": "Four Seasons",
+        "Product Name": "American Tobacco 60ml 3mg",
+        "Category": "E-liquid",
+        "Flavor": "Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850011260517",
+        "Manufacturer": "VDX Distro Inc..",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Ry4 Tobacco Salt 30ml 50mg",
+        "Category": "E-liquid",
+        "Flavor": "Caramelized Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435593",
+        "Manufacturer": "VDX Distro Inc..",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Turkish Tobacco 60ml 6mg",
+        "Category": "E-liquid",
+        "Flavor": "Latakia Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850011260661",
+        "Manufacturer": "VDX Distro Inc..",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Turkish Tobacco Salt 30ml 30mg",
+        "Category": "E-liquid",
+        "Flavor": "Latakia Tobacco",
+        "Date Added to Directory": "07/02/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "819979013306",
+        "Manufacturer": "NJOY, LLC",
+        "Brand Name": "NJOY",
+        "Product Name": "NJOY All-in-one Kit Device + Menthol 5% 1-pod",
+        "Category": "E-liquid Pod",
+        "Flavor": "Menthol",
+        "Date Added to Directory": "10/06/2026"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435562",
+        "Manufacturer": "VDX Distro Inc..",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Ry4 Tobacco 60ml 18mg",
+        "Category": "E-liquid",
+        "Flavor": "Caramelized Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850022314896",
+        "Manufacturer": "VDX Distro Inc..",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Virginia Tobacco Salt 30ml 30mg",
+        "Category": "E-liquid",
+        "Flavor": "Virginia Tobacco",
+        "Date Added to Directory": "07/02/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435500",
+        "Manufacturer": "VDX Distro Inc..",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Menthol 60ml 12mg",
+        "Category": "E-liquid",
+        "Flavor": "Menthol",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435630",
+        "Manufacturer": "VDX Distro Inc..",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Desert Tobacco 60ml 3mg",
+        "Category": "E-liquid",
+        "Flavor": "Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435432",
+        "Manufacturer": "VDX Distro Inc..",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Menthol Tobacco 60ml 3mg",
+        "Category": "E-liquid",
+        "Flavor": "Menthol, Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435609",
+        "Manufacturer": "VDX Distro Inc..",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Turkish Tobacco 60ml 12mg",
+        "Category": "E-liquid",
+        "Flavor": "Latakia Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850011260357",
+        "Manufacturer": "VDX Distro Inc..",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Desert Tobacco Salt 30ml 50mg",
+        "Category": "E-liquid",
+        "Flavor": "Tobacco",
+        "Date Added to Directory": "07/02/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435449",
+        "Manufacturer": "VDX Distro Inc..",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Menthol Tobacco 60ml 6mg",
+        "Category": "E-liquid",
+        "Flavor": "Menthol, Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435586",
+        "Manufacturer": "VDX Distro Inc..",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Turkish Tobacco 60ml 3mg",
+        "Category": "E-liquid",
+        "Flavor": "Latakia Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435647",
+        "Manufacturer": "VDX Distro Inc..",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Desert Tobacco 60ml 6mg",
+        "Category": "E-liquid",
+        "Flavor": "Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "819979013283",
+        "Manufacturer": "NJOY, LLC",
+        "Brand Name": "NJOY",
+        "Product Name": "NJOY All-in-one Kit Device + Classic Tobacco 5% 1-",
+        "Category": "E-liquid Pod",
+        "Flavor": "Classic Tobacco",
+        "Date Added to Directory": "10/06/2026"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435463",
+        "Manufacturer": "VDX Distro Inc..",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Menthol Tobacco 60ml 18mg",
+        "Category": "E-liquid",
+        "Flavor": "Menthol, Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435661",
+        "Manufacturer": "VDX Distro Inc..",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Desert Tobacco 60ml 18mg",
+        "Category": "E-liquid",
+        "Flavor": "Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850011260678",
+        "Manufacturer": "VDX Distro Inc..",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Turkish Tobacco Salt 30ml 50mg",
+        "Category": "E-liquid",
+        "Flavor": "Latakia Tobacco",
+        "Date Added to Directory": "07/02/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435555",
+        "Manufacturer": "VDX Distro Inc..",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Ry4 Tobacco 60ml 12mg",
+        "Category": "E-liquid",
+        "Flavor": "Caramelized Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850011260265",
+        "Manufacturer": "VDX Distro Inc..",
+        "Brand Name": "Four Seasons",
+        "Product Name": "American Tobacco Salt 30ml 30mg",
+        "Category": "E-liquid",
+        "Flavor": "Tobacco",
+        "Date Added to Directory": "07/02/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850011260272",
+        "Manufacturer": "VDX Distro Inc..",
+        "Brand Name": "Four Seasons",
+        "Product Name": "American Tobacco Salt 30ml 30mg",
+        "Category": "E-liquid",
+        "Flavor": "Tobacco",
+        "Date Added to Directory": "07/02/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435494",
+        "Manufacturer": "VDX Distro Inc...",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Menthol 60ml 6mg",
+        "Category": "E-liquid",
+        "Flavor": "Menthol",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435401",
+        "Manufacturer": "VDX Distro Inc..",
+        "Brand Name": "Four Seasons",
+        "Product Name": "American Tobacco 60ml 12mg",
+        "Category": "E-liquid",
+        "Flavor": "Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435531",
+        "Manufacturer": "VDX Distro Inc..",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Ry4 Tobacco 60ml 3mg",
+        "Category": "E-liquid",
+        "Flavor": "Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435616",
+        "Manufacturer": "VDX Distro Inc..",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Turkish Tobacco 60ml 18mg",
+        "Category": "E-liquid",
+        "Flavor": "Latakia Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850011260425",
+        "Manufacturer": "VDX Distro Inc..",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Menthol Salt 30ml 30mg",
+        "Category": "E-liquid",
+        "Flavor": "Menthol",
+        "Date Added to Directory": "07/02/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850022314889",
+        "Manufacturer": "VDX Distro Inc..",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Virginia Tobacco 60ml 18mg",
+        "Category": "E-liquid",
+        "Flavor": "Virginia Tobacco",
+        "Date Added to Directory": "07/02/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850011260500",
+        "Manufacturer": "VDX Distro Inc..",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Ry4 Tobacco Salt 30ml 30mg",
+        "Category": "E-liquid",
+        "Flavor": "Caramelized Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850022314858",
+        "Manufacturer": "VDX Distro Inc..",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Virginia Tobacco 60ml 3mg",
+        "Category": "E-liquid",
+        "Flavor": "Virginia Tobacco",
+        "Date Added to Directory": "07/02/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435487",
+        "Manufacturer": "VDX Distro Inc..",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Menthol 60ml 3mg",
+        "Category": "E-liquid",
+        "Flavor": "Menthol",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435456",
+        "Manufacturer": "VDX Distro Inc..",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Menthol Tobacco 60ml 12mg",
+        "Category": "E-liquid",
+        "Flavor": "Menthol, Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435418",
+        "Manufacturer": "VDX Distro Inc..",
+        "Brand Name": "Four Seasons",
+        "Product Name": "American Tobacco 60ml 18mg",
+        "Category": "E-liquid",
+        "Flavor": "Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435395",
+        "Manufacturer": "VDX Distro Inc..",
+        "Brand Name": "Four Seasons",
+        "Product Name": "American Tobacco 60ml 6mg",
+        "Category": "E-liquid",
+        "Flavor": "Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435517",
+        "Manufacturer": "VDX Distro Inc..",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Menthol 60ml 18mg",
+        "Category": "E-liquid",
+        "Flavor": "Menthol",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435654",
+        "Manufacturer": "VDX Distro Inc..",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Desert Tobacco 60ml 12mg",
+        "Category": "E-liquid",
+        "Flavor": "Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435548",
+        "Manufacturer": "VDX Distro Inc..",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Ry4 Tobacco 60ml 6mg",
+        "Category": "E-liquid",
+        "Flavor": "Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850022314919",
+        "Manufacturer": "VDX Distro Inc..",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Virginia Tobacco Salt 50ml 30mg",
+        "Category": "E-liquid",
+        "Flavor": "Virginia Tobacco",
+        "Date Added to Directory": "07/02/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850011260586",
+        "Manufacturer": "VDX Distro Inc..",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Menthol Tobacco Salt 30ml 30mg",
+        "Category": "E-liquid",
+        "Flavor": "Menthol, Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850011260593",
+        "Manufacturer": "VDX Distro Inc..",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Menthol Tobacco Salt 30ml 50mg",
+        "Category": "E-liquid",
+        "Flavor": "Menthol, Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850011260432",
+        "Manufacturer": "VDX Distro Inc..",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Menthol Salt 30ml 50mg",
+        "Category": "E-liquid",
+        "Flavor": "Menthol",
+        "Date Added to Directory": "07/02/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850022314865",
+        "Manufacturer": "VDX Distro Inc..",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Virginia Tobacco 60ml 6mg",
+        "Category": "E-liquid",
+        "Flavor": "Virginia Tobacco",
+        "Date Added to Directory": "07/02/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850011260340",
+        "Manufacturer": "VDX Distro Inc..",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Desert Tobacco Salt 30ml 30mg",
+        "Category": "E-liquid",
+        "Flavor": "Tobacco",
+        "Date Added to Directory": "07/02/2025"
+      }
+    ],
+    "removed": [
+      {
+        "Stock Keeping Unit (SKU)": "850011260661",
+        "Manufacturer": "VDX Distro Inc.",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Turkish Tobacco Salt 30ml 30mg",
+        "Category": "E-liquid",
+        "Flavor": "Latakia Tobacco",
+        "Date Added to Directory": "07/02/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850011260593",
+        "Manufacturer": "VDX Distro Inc.",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Menthol Tobacco Salt 30ml 50mg",
+        "Category": "E-liquid",
+        "Flavor": "Menthol, Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435562",
+        "Manufacturer": "VDX Distro Inc.",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Ry4 Tobacco 60ml 18mg",
+        "Category": "E-liquid",
+        "Flavor": "Caramelized Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435401",
+        "Manufacturer": "VDX Distro Inc.",
+        "Brand Name": "Four Seasons",
+        "Product Name": "American Tobacco 60ml 12mg",
+        "Category": "E-liquid",
+        "Flavor": "Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850022314889",
+        "Manufacturer": "VDX Distro Inc.",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Virginia Tobacco 60ml 18mg",
+        "Category": "E-liquid",
+        "Flavor": "Virginia Tobacco",
+        "Date Added to Directory": "07/02/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435494",
+        "Manufacturer": "VDX Distro Inc.",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Menthol 60ml 6mg",
+        "Category": "E-liquid",
+        "Flavor": "Menthol",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435555",
+        "Manufacturer": "VDX Distro Inc.",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Ry4 Tobacco 60ml 12mg",
+        "Category": "E-liquid",
+        "Flavor": "Caramelized Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435616",
+        "Manufacturer": "VDX Distro Inc.",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Turkish Tobacco 60ml 18mg",
+        "Category": "E-liquid",
+        "Flavor": "Latakia Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435586",
+        "Manufacturer": "VDX Distro Inc.",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Turkish Tobacco 60ml 3mg",
+        "Category": "E-liquid",
+        "Flavor": "Latakia Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850022314858",
+        "Manufacturer": "VDX Distro Inc.",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Virginia Tobacco 60ml 3mg",
+        "Category": "E-liquid",
+        "Flavor": "Virginia Tobacco",
+        "Date Added to Directory": "07/02/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435593",
+        "Manufacturer": "VDX Distro Inc.",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Turkish Tobacco 60ml 6mg",
+        "Category": "E-liquid",
+        "Flavor": "Latakia Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850022314896",
+        "Manufacturer": "VDX Distro Inc.",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Virginia Tobacco Salt 30ml 30mg",
+        "Category": "E-liquid",
+        "Flavor": "Virginia Tobacco",
+        "Date Added to Directory": "07/02/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850022314872",
+        "Manufacturer": "VDX Distro Inc.",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Virginia Tobacco 60ml 12mg",
+        "Category": "E-liquid",
+        "Flavor": "Virginia Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435388",
+        "Manufacturer": "VDX Distro Inc.",
+        "Brand Name": "Four Seasons",
+        "Product Name": "American Tobacco 60ml 3mg",
+        "Category": "E-liquid",
+        "Flavor": "Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435661",
+        "Manufacturer": "VDX Distro Inc.",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Desert Tobacco 60ml 18mg",
+        "Category": "E-liquid",
+        "Flavor": "Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435630",
+        "Manufacturer": "VDX Distro Inc.",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Desert Tobacco 60ml 3mg",
+        "Category": "E-liquid",
+        "Flavor": "Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435609",
+        "Manufacturer": "VDX Distro Inc.",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Turkish Tobacco 60ml 12mg",
+        "Category": "E-liquid",
+        "Flavor": "Latakia Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435647",
+        "Manufacturer": "VDX Distro Inc.",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Desert Tobacco 60ml 6mg",
+        "Category": "E-liquid",
+        "Flavor": "Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435500",
+        "Manufacturer": "VDX Distro Inc.",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Menthol 60ml 12mg",
+        "Category": "E-liquid",
+        "Flavor": "Menthol",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850011260517",
+        "Manufacturer": "VDX Distro Inc.",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Ry4 Tobacco Salt 30ml 50mg",
+        "Category": "E-liquid",
+        "Flavor": "Caramelized Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435432",
+        "Manufacturer": "VDX Distro Inc.",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Menthol Tobacco 60ml 3mg",
+        "Category": "E-liquid",
+        "Flavor": "Menthol, Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435517",
+        "Manufacturer": "VDX Distro Inc.",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Menthol 60ml 18mg",
+        "Category": "E-liquid",
+        "Flavor": "Menthol",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850011260340",
+        "Manufacturer": "VDX Distro Inc.",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Desert Tobacco Salt 30ml 30mg",
+        "Category": "E-liquid",
+        "Flavor": "Tobacco",
+        "Date Added to Directory": "07/02/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435395",
+        "Manufacturer": "VDX Distro Inc.",
+        "Brand Name": "Four Seasons",
+        "Product Name": "American Tobacco 60ml 6mg",
+        "Category": "E-liquid",
+        "Flavor": "Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850011260432",
+        "Manufacturer": "VDX Distro Inc.",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Menthol Salt 30ml 50mg",
+        "Category": "E-liquid",
+        "Flavor": "Menthol",
+        "Date Added to Directory": "07/02/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850022314919",
+        "Manufacturer": "VDX Distro Inc.",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Virginia Tobacco Salt 50ml 30mg",
+        "Category": "E-liquid",
+        "Flavor": "Virginia Tobacco",
+        "Date Added to Directory": "07/02/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435548",
+        "Manufacturer": "VDX Distro Inc.",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Ry4 Tobacco 60ml 6mg",
+        "Category": "E-liquid",
+        "Flavor": "Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850011260265",
+        "Manufacturer": "VDX Distro Inc.",
+        "Brand Name": "Four Seasons",
+        "Product Name": "American Tobacco Salt 30ml 30mg",
+        "Category": "E-liquid",
+        "Flavor": "Tobacco",
+        "Date Added to Directory": "07/02/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850011260272",
+        "Manufacturer": "VDX Distro Inc.",
+        "Brand Name": "Four Seasons",
+        "Product Name": "American Tobacco Salt 30ml 30mg",
+        "Category": "E-liquid",
+        "Flavor": "Tobacco",
+        "Date Added to Directory": "07/02/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435531",
+        "Manufacturer": "VDX Distro Inc.",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Ry4 Tobacco 60ml 3mg",
+        "Category": "E-liquid",
+        "Flavor": "Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435456",
+        "Manufacturer": "VDX Distro Inc.",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Menthol Tobacco 60ml 12mg",
+        "Category": "E-liquid",
+        "Flavor": "Menthol, Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435654",
+        "Manufacturer": "VDX Distro Inc.",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Desert Tobacco 60ml 12mg",
+        "Category": "E-liquid",
+        "Flavor": "Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435463",
+        "Manufacturer": "VDX Distro Inc.",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Menthol Tobacco 60ml 18mg",
+        "Category": "E-liquid",
+        "Flavor": "Menthol, Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435449",
+        "Manufacturer": "VDX Distro Inc.",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Menthol Tobacco 60ml 6mg",
+        "Category": "E-liquid",
+        "Flavor": "Menthol, Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850011260678",
+        "Manufacturer": "VDX Distro Inc.",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Turkish Tobacco Salt 30ml 50mg",
+        "Category": "E-liquid",
+        "Flavor": "Latakia Tobacco",
+        "Date Added to Directory": "07/02/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850011260500",
+        "Manufacturer": "VDX Distro Inc.",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Ry4 Tobacco Salt 30ml 30mg",
+        "Category": "E-liquid",
+        "Flavor": "Caramelized Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435487",
+        "Manufacturer": "VDX Distro Inc.",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Menthol 60ml 3mg",
+        "Category": "E-liquid",
+        "Flavor": "Menthol",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850011260586",
+        "Manufacturer": "VDX Distro Inc.",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Menthol Tobacco Salt 30ml 30mg",
+        "Category": "E-liquid",
+        "Flavor": "Menthol, Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850011260357",
+        "Manufacturer": "VDX Distro Inc.",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Desert Tobacco Salt 30ml 50mg",
+        "Category": "E-liquid",
+        "Flavor": "Tobacco",
+        "Date Added to Directory": "07/02/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850011260425",
+        "Manufacturer": "VDX Distro Inc.",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Menthol Salt 30ml 30mg",
+        "Category": "E-liquid",
+        "Flavor": "Menthol",
+        "Date Added to Directory": "07/02/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850022314865",
+        "Manufacturer": "VDX Distro Inc.",
+        "Brand Name": "Four Seasons",
+        "Product Name": "Virginia Tobacco 60ml 6mg",
+        "Category": "E-liquid",
+        "Flavor": "Virginia Tobacco",
+        "Date Added to Directory": "07/02/2025"
+      },
+      {
+        "Stock Keeping Unit (SKU)": "850037435418",
+        "Manufacturer": "VDX Distro Inc.",
+        "Brand Name": "Four Seasons",
+        "Product Name": "American Tobacco 60ml 18mg",
+        "Category": "E-liquid",
+        "Flavor": "Tobacco",
+        "Date Added to Directory": "11/04/2025"
+      }
+    ],
+    "changed": [
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Hiss Tank 60ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Iced Pineapple Express 60ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Derailed 60ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Derailed 60ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Warning Shot 60ml 18mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Fight Your Fate 60ml 18mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Shurb 60ml 18mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Rainbow Road 100ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Iced Pineapple Express Salt 30ml 24mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Hiss Tank 120ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Strawberry Kiwi Salts",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Strawberry Kiwi Salts",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Madrina 120ml 1.5mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Mothers Milk And Cookies 120ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Derailed 120ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Derailed 120ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Shock And Awe 60ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Mothers Milk 120ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Shurb 120ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny The Ob 60ml 18mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Milk Of The Poppy 60ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Raspberry French 60ml 18mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Sucker Punch 60ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown The King 60ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny The Ob 120ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Hiss Tank 120ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Hiss Tank 120ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Peachy Strawberry 120ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Killer Kustard Lemon 100ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Blackberry Lemonade Salt 30ml 48mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Blueberry Parfait 60ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Raspberry French 120ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Sucker Punch 60ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown The King 60ml 18mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Fight Your Fate 120ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Shock And Awe 60ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Bunny Season 120ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Bunny Season 120ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Milk Of The Poppy Salt 30ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Strawberry Astronaut 60ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Strawberry Astronaut 60ml 18mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Wanderlust 120ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Royalty Ii Salt 30ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown The King 60ml 1.5mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Royalty Ii Salt 30ml 24mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Queen Cake 120ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Shock And Awe 120ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Iced Milk Of The Poppy 100ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Shurb 120ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Pineapple Grapefruit",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Pineapple Grapefruit",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Royalty Ii 60ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Hiss Tank 60ml 18mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Killer Kustard Honeydew 100ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown The King 120ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Fight Your Fate 120ml 1.5mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Iced Blackberry Lemonade 60ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Iced Milk Of The Poppy Salt 30ml 24mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Pineapple Express Salt 30ml 48mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Pink Lemonade Salt 30ml 24mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Milk Of The Poppy 100ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Queen Cake 120ml 1.5mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Warning Shot 120ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Galil 60ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Shurb 60ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Killer Kustard 60ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Wanderlust 120ml 1.5mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Blueberry Parfait Salt 30ml 48mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Killer Kustard Blueberry 100ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Mothers Milk 60ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Mothers Milk 60ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Killer Kustard Blueberry Salt 30ml 48mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Sucker Punch 120ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Royalty Ii 60ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Warning Shot 60ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Blueberry Parfait Salt 30ml 24mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Derailed 60ml 1.5mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Shurb 60ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Killer Kustard 100ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Khali Vapors",
+        "product": "Khali Vapors Devil's Punchbowl Ice Salts",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Khali Vapors",
+        "product": "Khali Vapors Devil's Punchbowl Ice Salts",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Peachy Strawberry 120ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Strawberry Astronaut 60ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Bam's Cannoli",
+        "product": "Bam's Cannoli Original",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Bam's Cannoli",
+        "product": "Bam's Cannoli Original",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Pineapple Express Salt 30ml 24mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Iced Pineapple Express Salt 30ml 48mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Killer Kustard 100ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Strawberry Astronaut 60ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Madrina 60ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Madrina 60ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Killer Kustard Blueberry 60ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Iced Milk Of The Poppy Salt 30ml 48mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Strawberry Parfait 100ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Mothers Milk 120ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Pineapple Express 100ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Guava Peach",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Guava Peach",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Watermelon Lime Salt",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Watermelon Lime Salt",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Galil 120ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Claim Your Throne 60ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          },
+          "Flavor": {
+            "before": "Sweet Cream&butterscotch",
+            "after": "Sweet Cream & Butterscotch"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Bunny Season 120ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Bunny Season 120ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Madrina 60ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Madrina 60ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Bound By The Crown 60ml 1.5mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          },
+          "Flavor": {
+            "before": "Sweetcustardmixedfruit",
+            "after": "Sweet Custard Mixed Fruit"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Pineapple Express 60ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Blueberry Lemon",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Blueberry Lemon",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Queen Cake 120ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Pink Lemonade Salt 30ml 48mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Bound By The Crown 60ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          },
+          "Flavor": {
+            "before": "Sweetcustardmixedfruit",
+            "after": "Sweet Custard Mixed Fruit"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Peachy Strawberry 60ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Creme Brulee 120ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Hiss Tank 60ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Pink Lemonade 60ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Strawberry Parfait Salt 30ml 48mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "The Schwartz E Liquid",
+        "brand": "Naked100",
+        "product": "Really Berry 0mg",
+        "changes": {
+          "Flavor": {
+            "before": "Blackberry Blueberrylemon",
+            "after": "Blackberry Blueberry Lemon"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Blueberry Parfait 100ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Mothers Milk 60ml 1.5mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Fight Your Fate 60ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Killer Kustard Strawberry 60ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Claim Your Throne 120ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          },
+          "Flavor": {
+            "before": "Sweet Cream&butterscotch",
+            "after": "Sweet Cream & Butterscotch"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Fight Your Fate 120ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Pink Lemonade 60ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Sucker Punch 120ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Sucker Punch 120ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Madrina 120ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Madrina 120ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Fight Your Fate 60ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Bound By The Crown 120ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          },
+          "Flavor": {
+            "before": "Sweetcustardmixedfruit",
+            "after": "Sweet Custard Mixed Fruit"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Warning Shot 120ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Claim Your Throne 60ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          },
+          "Flavor": {
+            "before": "Sweet Cream&butterscotch",
+            "after": "Sweet Cream & Butterscotch"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Derailed 120ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Shock And Awe 60ml 18mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Raspberry French 60ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Fight Your Fate 120ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Killer Kustard Salt 30ml 24mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Rainbow Road 60ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Bam's Cannoli",
+        "product": "Bam's Cannoli Birthday",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Bam's Cannoli",
+        "product": "Bam's Cannoli Birthday",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Mothers Milk 60ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Mothers Milk 60ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Peachy Strawberry 60ml 18mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Mothers Milk And Cookies 60ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Killer Kustard Strawberry Salt 30ml 48mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Mothers Milk 120ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Galil 60ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Warning Shot 60ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Madrina 60ml 1.5mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Watermelon Lime",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Watermelon Lime",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Blueberry Lemon Salt",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Blueberry Lemon Salt",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Creme Brulee 120ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown The King 120ml 1.5mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Bound By The Crown 60ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          },
+          "Flavor": {
+            "before": "Sweetcustardmixedfruit",
+            "after": "Sweet Custard Mixed Fruit"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown The King 120ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Warning Shot 60ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny The Ob 120ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Wanderlust 120ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Pineapple Grapefruit Salt",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Pineapple Grapefruit Salt",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Claim Your Throne 120ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          },
+          "Flavor": {
+            "before": "Sweet Cream&butterscotch",
+            "after": "Sweet Cream & Butterscotch"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Sucker Punch 120ml 1.5mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Blueberry Lemon Freeze",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Blueberry Lemon Freeze",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Royalty Ii Salt 30ml 48mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Raspberry French 120ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Galil 120ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Derailed 120ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Creme Brulee 60ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Iced Blackberry Lemonade 100ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Peachy Strawberry 120ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Claim Your Throne 120ml 1.5mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          },
+          "Flavor": {
+            "before": "Sweet Cream&butterscotch",
+            "after": "Sweet Cream & Butterscotch"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Strawberry Astronaut 120ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Fight Your Fate 60ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Peachy Strawberry 60ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Derailed 60ml 18mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Rainbow Road 100ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Milk Of The Poppy 100ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Strawberry Kiwi",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Strawberry Kiwi",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Pink Lemonade 100ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Killer Kustard Strawberry 60ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny The Ob 120ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny The Ob 120ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Blackberry Lemonade 100ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Madrina 120ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Strawberry Parfait 60ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Peachy Strawberry 60ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Bound By The Crown 120ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          },
+          "Flavor": {
+            "before": "Sweetcustardmixedfruit",
+            "after": "Sweet Custard Mixed Fruit"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Iced Blackberry Lemonade Salt 30ml 48mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Shock And Awe 120ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Iced Milk Of The Poppy 100ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Peach Pear Salt",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Peach Pear Salt",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Strawberry Kiwi Freeze",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Strawberry Kiwi Freeze",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Killer Kustard Blueberry 100ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Wanderlust 60ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown The King 60ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Killer Kustard Honeydew 100ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Creme Brulee 120ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Iced Blackberry Lemonade Salt 30ml 24mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Bunny Season 60ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Bunny Season 60ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Fight Your Fate 60ml 1.5mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Mothers Milk And Cookies 120ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Killer Kustard Blueberry 60ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Wanderlust 60ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Strawberry Parfait 100ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Wanderlust 60ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Wanderlust 60ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Sucker Punch 60ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Madrina 120ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Royalty Ii 100ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Queen Cake 60ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Pineapple Express 100ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Wanderlust 60ml 1.5mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Galil 60ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Queen Cake 60ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Killer Kustard Blueberry Salt 30ml 24mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Killer Kustard 100ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Warning Shot 120ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Killer Kustard Strawberry Salt 30ml 24mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Queen Cake 60ml 18mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny The Ob 60ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny The Ob 60ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Derailed 60ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Derailed 60ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Bound By The Crown 120ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          },
+          "Flavor": {
+            "before": "Sweetcustardmixedfruit",
+            "after": "Sweet Custard Mixed Fruit"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Guava Peach Salt",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Guava Peach Salt",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Royalty Ii 100ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Bam's Cannoli",
+        "product": "Bam's Cannoli Captain",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Bam's Cannoli",
+        "product": "Bam's Cannoli Captain",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Hiss Tank 120ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Hiss Tank 120ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Strawberry Astronaut 120ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny The Ob 60ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny The Ob 60ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Rainbow Road Salt 30ml 24mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Mothers Milk 120ml 1.5mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Shurb 60ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Peach Pear",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Peach Pear",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Wanderlust 60ml 18mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Killer Kustard 60ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown The King 120ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Queen Cake 60ml 1.5mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Sucker Punch 60ml 18mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Derailed 60ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Derailed 60ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Killer Kustard Strawberry Salt 30ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Bound By The Crown 60ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          },
+          "Flavor": {
+            "before": "Sweetcustardmixedfruit",
+            "after": "Sweet Custard Mixed Fruit"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Blackberry Lemonade 60ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Creme Brulee 60ml 0mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Shock And Awe 60ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Iced Blackberry Lemonade 60ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Royalty Ii 60ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Rainbow Road Salt 30ml 48mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Sucker Punch 60ml 1.5mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Strawberry Parfait 60ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Milk Of The Poppy Salt 30ml 24mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny The Ob 60ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny The Ob 60ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Raspberry French 60ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Shurb 120ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Milk Of The Poppy 100ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Killer Kustard Strawberry 100ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Madrina 60ml 18mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Madrina 60ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Madrina 60ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Bunny Season 60ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Bunny Season 60ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Mothers Milk 60ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Mothers Milk 60ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Iced Milk Of The Poppy 60ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Hiss Tank 60ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Strawberry Astronaut 120ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Raspberry French 60ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Blueberry Parfait 100ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Creme Brulee 60ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Milk Of The Poppy Salt 30ml 48mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Wanderlust 120ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Creme Brulee 60ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Killer Kustard Lemon 100ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Claim Your Throne 60ml 1.5mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          },
+          "Flavor": {
+            "before": "Sweet Cream&butterscotch",
+            "after": "Sweet Cream & Butterscotch"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Mothers Milk And Cookies 60ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Derailed 120ml 1.5mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Killer Kustard Strawberry 100ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Milk Of The Poppy 60ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Iced Pineapple Express 60ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Galil 120ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Queen Cake 120ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Iced Milk Of The Poppy 60ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Claim Your Throne 60ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          },
+          "Flavor": {
+            "before": "Sweet Cream&butterscotch",
+            "after": "Sweet Cream & Butterscotch"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Blackberry Lemonade Salt 30ml 24mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Royalty Ii 100ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Peach Pear Freeze",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Juice Head",
+        "product": "Juice Head Peach Pear Freeze",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Bound By The Crown 60ml 18mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny The Ob 120ml 1.5mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Mothers Milk 60ml 18mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Claim Your Throne 60ml 18mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          },
+          "Flavor": {
+            "before": "Sweet Cream&butterscotch",
+            "after": "Sweet Cream & Butterscotch"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Galil 60ml 18mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Milk Of The Poppy 60ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Killer Kustard Salt 30ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Khali Vapors",
+        "product": "Khali Vapors Devil's Punchbowl",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Khali Vapors",
+        "product": "Khali Vapors Devil's Punchbowl",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Killer Kustard Salt 30ml 48mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Iced Blackberry Lemonade 100ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny Queen Cake 60ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Cold Fusion",
+        "product": "Cold Fusion Shock And Awe 120ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Pineapple Express 60ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Blueberry Parfait 60ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Killer Kustard 60ml 12mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Blackberry Lemonade 60ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Raspberry French 120ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Blackberry Lemonade 100ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Iced Pineapple Express 100ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Bam's Cannoli",
+        "product": "Bam's Cannoli Strawberry",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Bam's Cannoli",
+        "product": "Bam's Cannoli Strawberry",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Claim Your Throne 120ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          },
+          "Flavor": {
+            "before": "Sweet Cream&butterscotch",
+            "after": "Sweet Cream & Butterscotch"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Rainbow Road 60ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Jimmy The Juiceman",
+        "product": "Jimmy The Juiceman Creme Brulee 60ml 18mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Khali Vapors",
+        "product": "Khali Vapors Devil's Punchbowl Ice",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "MH Global LLC Dba Streamline Vape Co. LLC",
+        "brand": "Khali Vapors",
+        "product": "Khali Vapors Devil's Punchbowl Ice",
+        "changes": {
+          "Manufacturer": {
+            "before": "MH Global LLC dba Streamline Vape Co. LLC",
+            "after": "MH Global LLC Dba Streamline Vape Co. LLC"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown Bound By The Crown 120ml 1.5mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          },
+          "Flavor": {
+            "before": "Sweetcustardmixedfruit",
+            "after": "Sweet Custard Mixed Fruit"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Iced Pineapple Express 100ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Suicide Bunny The Ob 60ml 1.5mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Strawberry Parfait Salt 30ml 24mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Vapetasia",
+        "product": "Vapetasia Pink Lemonade 100ml 3mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      },
+      {
+        "identifier": "",
+        "manufacturer": "Wages & White Lion Investments LLC Dba Triton Distribution",
+        "brand": "Suicide Bunny",
+        "product": "Kings Crown The King 60ml 6mg",
+        "changes": {
+          "Manufacturer": {
+            "before": "Wages & White Lion Investments LLC dba Triton Distribution",
+            "after": "Wages & White Lion Investments LLC Dba Triton Distribution"
+          }
+        }
+      }
+    ]
+  }
+}
